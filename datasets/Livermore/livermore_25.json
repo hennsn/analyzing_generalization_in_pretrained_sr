@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "sqrt(x_0 + x_1)*(2.97*x_1**2 + 2.8*x_1)",
+	"name": "Livermore2-Vars2-1",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-0.990116256779801,
+			-0.490116256779801
+		],
+		[
+			1.2806925233027222,
+			1.7806925233027222
+		]
+	],
+	"task_id": "livermore_25.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "The Mason–Weaver sedimentation coefficient is defined as the ratio of buoyant mass to drag coefficient.",
+	"dtype": "float",
+	"expression": "x_0/x_1",
+	"name": "Mason–Weaver equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1e-10,
+			1e-05
+		],
+		[
+			1e-10,
+			1e-05
+		]
+	],
+	"task_id": "eponymous_131.json"
+}

@@ -1,0 +1,26 @@
+{
+	"description": "The head loss per length of pipe is expressed in terms of the Darcy–Weisbach equation.",
+	"dtype": "float",
+	"expression": "x_0*1*x_2**2/((2*x_1)*x_3)",
+	"name": "Darcy–Weisbach equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			1
+		],
+		[
+			1,
+			10
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			0.01,
+			1
+		]
+	],
+	"task_id": "eponymous_54.json"
+}

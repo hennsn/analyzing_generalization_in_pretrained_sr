@@ -1,0 +1,26 @@
+{
+	"description": "Cauchy's two-term equation for air, expanded by Lorentz to account for humidity.",
+	"dtype": "float",
+	"expression": "1 + ((388/5)/10**6)*(1 + ((188/25)/10**3)/(x_1**2))*(x_2 + 4810*x_3/x_0)/x_0",
+	"name": "Cauchy's equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			273.15,
+			373.15
+		],
+		[
+			0.4,
+			0.7
+		],
+		[
+			900,
+			1100
+		],
+		[
+			0,
+			50
+		]
+	],
+	"task_id": "eponymous_34.json"
+}

@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "1/(exp(2.39959613196403e-11*x_0/(pi*x_2)) - 1)",
+	"name": "feynman-iii.4.32",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			100067528.0,
+			9994454016.0
+		],
+		[
+			1.0001606440250083e-33,
+			9.998069634887848e-32
+		],
+		[
+			10.007120132446289,
+			997.900146484375
+		],
+		[
+			-9.991568195114305e+30,
+			9.996779874322664e+30
+		]
+	],
+	"task_id": "srds_115.json"
+}

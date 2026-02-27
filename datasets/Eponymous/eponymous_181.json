@@ -1,0 +1,18 @@
+{
+	"description": "The steric substituent constant Es is defined based on the acid catalyzed reaction rate.",
+	"dtype": "float",
+	"expression": "1*x_1/x_0",
+	"name": "Taft equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_181.json"
+}

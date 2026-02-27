@@ -1,0 +1,26 @@
+{
+	"description": "The logistic function is a common S-shaped curve used in various fields to model population growth and other phenomena.",
+	"dtype": "float",
+	"expression": "x_1/(1 + exp(-x_0*(x_2 - x_3)))",
+	"name": "Verhulst equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			0.5,
+			2
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_195.json"
+}

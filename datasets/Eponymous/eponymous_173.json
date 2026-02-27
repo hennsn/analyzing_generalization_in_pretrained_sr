@@ -1,0 +1,38 @@
+{
+	"description": "The classic Starling equation describes the transendothelial solvent filtration volume per second as a function of capillary and interstitial hydrostatic pressures, plasma and interstitial oncotic pressures, hydraulic conductivity, surface area for filtration, and Staverman's reflection coefficient.",
+	"dtype": "float",
+	"expression": "x_0*x_1*(x_2 - x_3 - x_4*(x_5 - x_6))",
+	"name": "Starling equation",
+	"scientific_field": "Biology",
+	"support": [
+		[
+			0.001,
+			10
+		],
+		[
+			0.001,
+			10
+		],
+		[
+			0,
+			100
+		],
+		[
+			0,
+			100
+		],
+		[
+			0,
+			1
+		],
+		[
+			0,
+			100
+		],
+		[
+			0,
+			100
+		]
+	],
+	"task_id": "eponymous_173.json"
+}

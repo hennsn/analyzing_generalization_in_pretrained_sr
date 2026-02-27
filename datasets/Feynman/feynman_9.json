@@ -1,0 +1,22 @@
+{
+	"description": "Feynman lectures: volume I, chapter 14, equation 3",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2",
+	"name": "I.14.3",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_9.json"
+}

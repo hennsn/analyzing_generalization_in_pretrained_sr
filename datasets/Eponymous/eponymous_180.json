@@ -1,0 +1,22 @@
+{
+	"description": "The polar substituent constant σ* is defined based on the difference in reaction rates between base and acid catalyzed mechanisms.",
+	"dtype": "float",
+	"expression": "1*(x_1 - x_2)/(62*x_0/25)",
+	"name": "Taft equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_180.json"
+}

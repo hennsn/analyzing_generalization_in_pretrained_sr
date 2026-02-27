@@ -1,0 +1,18 @@
+{
+	"description": "Number average molecular weight for linear polymers.",
+	"dtype": "float",
+	"expression": "x_0*1/(1 - x_1)",
+	"name": "Carothers equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			100,
+			200
+		],
+		[
+			0,
+			0.99
+		]
+	],
+	"task_id": "eponymous_30.json"
+}

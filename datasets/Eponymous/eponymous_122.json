@@ -1,0 +1,22 @@
+{
+	"description": "The equation of a straight line in slope-intercept form describes the relationship between the y-coordinate and the x-coordinate.",
+	"dtype": "float",
+	"expression": "x_0*x_1 + x_2",
+	"name": "List of equations",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		]
+	],
+	"task_id": "eponymous_122.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "The modified Carothers equation for branched polymers with multifunctional monomers.",
+	"dtype": "float",
+	"expression": "2/(-x_0*x_1 + 2)",
+	"name": "Carothers equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			0.99
+		],
+		[
+			2,
+			4
+		]
+	],
+	"task_id": "eponymous_28.json"
+}

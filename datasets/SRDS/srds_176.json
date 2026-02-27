@@ -1,0 +1,14 @@
+{
+	"description": "Feynman problem of hard difficulty.",
+	"dtype": "float",
+	"expression": "sqrt(2)*exp(-x_0**2/2)/(2*sqrt(pi))",
+	"name": "feynman-i.6.20a",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.99596497252089,
+			9.999902210914787
+		]
+	],
+	"task_id": "srds_176.json"
+}

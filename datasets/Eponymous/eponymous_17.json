@@ -1,0 +1,18 @@
+{
+	"description": "The Blaney–Criddle equation estimates reference crop evapotranspiration using mean daily temperature and the percentage of annual daytime hours.",
+	"dtype": "float",
+	"expression": "x_0*(457*x_1/1000 + 1016/125)",
+	"name": "Blaney–Criddle equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			-50,
+			50
+		],
+		[
+			0,
+			100
+		]
+	],
+	"task_id": "eponymous_17.json"
+}

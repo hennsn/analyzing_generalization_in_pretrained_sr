@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of medium difficulty.",
+	"dtype": "float",
+	"expression": "2*x_0*(1 - cos(x_1*x_2))",
+	"name": "feynman-iii.15.12",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0012158316645633e-18,
+			9.998987754809323e-17
+		],
+		[
+			0.1001288020474804,
+			9.989104091155752
+		],
+		[
+			1.0000680534484777e-10,
+			9.998743102358012e-09
+		]
+	],
+	"task_id": "srds_228.json"
+}

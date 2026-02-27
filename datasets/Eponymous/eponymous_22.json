@@ -1,0 +1,26 @@
+{
+	"description": "Complete integral solution of the inviscid Burgers' equation with arbitrary constants a and b.",
+	"dtype": "float",
+	"expression": "(x_0*x_1 + x_2)/(x_1*x_3 + 1)",
+	"name": "Burgers' equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		]
+	],
+	"task_id": "eponymous_22.json"
+}

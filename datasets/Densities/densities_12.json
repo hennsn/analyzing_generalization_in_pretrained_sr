@@ -1,0 +1,14 @@
+{
+	"description": "a,b,c = 1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.genexpon.html#scipy.stats.genexpon",
+	"dtype": "float",
+	"expression": "(1 + 2*(1 - exp(-2*x_0)))*exp(-3*x_0 + 1 - exp(-2*x_0))",
+	"name": "generalized exponential density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_12.json"
+}

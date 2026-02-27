@@ -1,0 +1,14 @@
+{
+	"description": "The slope of the saturation vapor pressure curve is derived from the temperature and the saturated vapor pressure.",
+	"dtype": "float",
+	"expression": "5336*exp(2107/100 - 1*5336/x_0)/(x_0**2)",
+	"name": "Penman equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			200,
+			350
+		]
+	],
+	"task_id": "eponymous_142.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "The Michaelis-Menten equation describes the rate of enzymatic reactions.",
+	"dtype": "float",
+	"expression": "(x_0*x_1)/(x_1 + x_2)",
+	"name": "List of equations",
+	"scientific_field": "Biology",
+	"support": [
+		[
+			0.01,
+			100
+		],
+		[
+			0.001,
+			100
+		],
+		[
+			0.001,
+			100
+		]
+	],
+	"task_id": "eponymous_124.json"
+}

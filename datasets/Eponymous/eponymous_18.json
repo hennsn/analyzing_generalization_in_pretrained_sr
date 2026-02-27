@@ -1,0 +1,22 @@
+{
+	"description": "The Borda–Carnot equation describes the mechanical energy losses of a fluid due to a sudden flow expansion.",
+	"dtype": "float",
+	"expression": "x_0*(x_1 - x_2)**2/2",
+	"name": "Borda–Carnot equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1000
+		],
+		[
+			0,
+			1000
+		]
+	],
+	"task_id": "eponymous_18.json"
+}

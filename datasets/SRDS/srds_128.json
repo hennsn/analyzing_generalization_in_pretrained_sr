@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of easy difficulty.",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2/x_3",
+	"name": "feynman-i.43.16",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.998796526269995e-05,
+			9.994867108304996e-05
+		],
+		[
+			-9.999860470405642e-10,
+			9.999998378718032e-10
+		],
+		[
+			-9.989542502124968,
+			9.990225948414095
+		],
+		[
+			0.0010004605453479132,
+			0.09992470301516163
+		]
+	],
+	"task_id": "srds_128.json"
+}

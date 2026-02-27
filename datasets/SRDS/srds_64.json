@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of hard difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "8.854e-12*x_1*x_2*x_3/(-x_1*x_2/3 + 1)",
+	"name": "feynman-ii.11.27",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-0.9993777871131897,
+			0.999746561050415
+		],
+		[
+			1.0005139286091064e+23,
+			9.995482415568477e+24
+		],
+		[
+			1.0003050094249687e-33,
+			9.991880657130769e-32
+		],
+		[
+			10.001252174377441,
+			999.7133178710938
+		],
+		[
+			1.0005935144273183e+19,
+			9.988350654810161e+20
+		]
+	],
+	"task_id": "srds_64.json"
+}

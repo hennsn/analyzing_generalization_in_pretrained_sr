@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "2*x_0 + x_1*(x_0 + sin(x_1*x_2)) + sin(2/x_3)",
+	"name": "Livermore2-Vars4-11",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "livermore_85.json"
+}

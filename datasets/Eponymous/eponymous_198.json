@@ -1,0 +1,18 @@
+{
+	"description": "Wald's equation relates the expected value of the sum of a random number of independent and identically distributed random variables to the expected number of terms and the common expectation of the random variables.",
+	"dtype": "float",
+	"expression": "x_0*x_1",
+	"name": "Wald's equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			1,
+			6
+		],
+		[
+			1,
+			6
+		]
+	],
+	"task_id": "eponymous_198.json"
+}

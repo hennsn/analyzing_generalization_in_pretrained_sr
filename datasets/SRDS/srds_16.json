@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "-x_1*x_2*cos(x_3)",
+	"name": "feynman-ii.15.5",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1000052992.0,
+			99902840832.0
+		],
+		[
+			-9.998245962821385e-21,
+			9.999137766919294e-21
+		],
+		[
+			-999.7219848632812,
+			999.408447265625
+		],
+		[
+			0.00019707836327143013,
+			6.281203269958496
+		],
+		[
+			10000287137792.0,
+			999960862523392.0
+		]
+	],
+	"task_id": "srds_16.json"
+}

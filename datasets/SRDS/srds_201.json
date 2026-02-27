@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of medium difficulty.",
+	"dtype": "float",
+	"expression": "0.5*x_0*(x_1**2 + x_2**2 + x_3**2)",
+	"name": "feynman-i.13.4",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.10006854598171576,
+			9.99676615355446
+		],
+		[
+			-9.984420305870477,
+			9.997253977092726
+		],
+		[
+			-9.984204948845226,
+			9.99475939055366
+		],
+		[
+			-9.99380379149305,
+			9.998763565938765
+		]
+	],
+	"task_id": "srds_201.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "8/(x_0**2 + x_1**2 + 2)",
+	"name": "Keijzer-14",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-3,
+			3
+		],
+		[
+			-3,
+			3
+		]
+	],
+	"task_id": "keijzer_13.json"
+}

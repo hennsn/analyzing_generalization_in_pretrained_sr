@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "exp(x_2)*sqrt(Abs(x_0))/(x_3**2*log(Abs(x_1)))",
+	"name": "Korns-9",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_8.json"
+}

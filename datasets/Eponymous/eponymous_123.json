@@ -1,0 +1,22 @@
+{
+	"description": "The Arrhenius equation describes the temperature dependence of reaction rates.",
+	"dtype": "float",
+	"expression": "x_0*exp(-x_1/x_2)",
+	"name": "List of equations",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0.01,
+			100
+		],
+		[
+			1000,
+			100000
+		],
+		[
+			200,
+			1000
+		]
+	],
+	"task_id": "eponymous_123.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "The quadratic Lyapunov function for discrete-time systems.",
+	"dtype": "float",
+	"expression": "x_0*x_1*(x_0)",
+	"name": "Lyapunov equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_129.json"
+}

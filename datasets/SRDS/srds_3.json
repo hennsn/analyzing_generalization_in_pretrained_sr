@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "9.80665*x_0*x_1",
+	"name": "feynman-i.14.3",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.010004821233451366,
+			0.9990073442459106
+		],
+		[
+			-0.9996466636657715,
+			0.9993904829025269
+		],
+		[
+			-9.983097015719977e-07,
+			9.996729204431176e-07
+		],
+		[
+			-9.997568080688133e+19,
+			9.978268572988106e+19
+		]
+	],
+	"task_id": "srds_3.json"
+}

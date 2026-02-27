@@ -1,0 +1,22 @@
+{
+	"description": "The grain size d on solidification is empirically found to be a linear function of the reciprocal of the growth restriction factor Q.",
+	"dtype": "float",
+	"expression": "x_0 + x_1/x_2",
+	"name": "Scheil equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.01,
+			0.99
+		],
+		[
+			0.01,
+			0.99
+		],
+		[
+			0.01,
+			0.99
+		]
+	],
+	"task_id": "eponymous_168.json"
+}

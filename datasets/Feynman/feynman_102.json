@@ -1,0 +1,34 @@
+{
+	"description": "Goldstein 12.80 ",
+	"dtype": "float",
+	"expression": "(x_0**2*x_1**2*x_4**2*(1 + x_4*x_5/x_3) + x_2**2)/(2*x_0)",
+	"name": "bonus_17",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_102.json"
+}

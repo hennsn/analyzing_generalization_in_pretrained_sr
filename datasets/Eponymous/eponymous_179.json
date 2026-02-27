@@ -1,0 +1,26 @@
+{
+	"description": "The Taft equation describes the relationship between reaction rates and substituent effects in organic chemistry.",
+	"dtype": "float",
+	"expression": "x_0*x_1 + x_2*x_3",
+	"name": "Taft equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_179.json"
+}

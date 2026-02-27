@@ -1,0 +1,22 @@
+{
+	"description": "Feynman lectures: volume II, chapter 15, equation 4",
+	"dtype": "float",
+	"expression": "-x_0*x_1*cos(x_2)",
+	"name": "II.15.4",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_55.json"
+}

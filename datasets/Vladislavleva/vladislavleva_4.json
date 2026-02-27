@@ -1,0 +1,22 @@
+{
+	"description": "Multivariate, hand-designed function by Vladislavleva et al.",
+	"dtype": "float",
+	"expression": "(30*x_0 - 30)*(x_2 - 1)/(x_1**2*(x_0 - 10))",
+	"name": "Vladislavleva-5",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.05,
+			2
+		],
+		[
+			1,
+			2
+		],
+		[
+			0.05,
+			2
+		]
+	],
+	"task_id": "vladislavleva_4.json"
+}

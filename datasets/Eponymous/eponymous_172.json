@@ -1,0 +1,14 @@
+{
+	"description": "The drum diameter is calculated using the cross-sectional area of the drum.",
+	"dtype": "float",
+	"expression": "sqrt((4*x_0)/pi)",
+	"name": "Souders–Brown equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			1,
+			100
+		]
+	],
+	"task_id": "eponymous_172.json"
+}

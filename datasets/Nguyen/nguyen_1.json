@@ -1,0 +1,14 @@
+{
+	"description": "Polynomial",
+	"dtype": "float",
+	"expression": "x_0**4 + x_0**3 + x_0**2 + x_0",
+	"name": "Nguyen-2",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1.0,
+			1.0
+		]
+	],
+	"task_id": "nguyen_1.json"
+}

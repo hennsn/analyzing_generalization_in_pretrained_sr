@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "exp(x_0)/2 - exp(-x_0)/2",
+	"name": "Livermore-7",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1,
+			1
+		]
+	],
+	"task_id": "livermore_6.json"
+}

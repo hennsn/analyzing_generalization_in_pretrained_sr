@@ -1,0 +1,22 @@
+{
+	"description": "The polytropic equation of state relates pressure and density in a polytropic fluid.",
+	"dtype": "float",
+	"expression": "x_0**(1 + 1/x_2)*x_1",
+	"name": "Lane–Emden equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.0,
+			0.06
+		],
+		[
+			0.34,
+			0.4
+		],
+		[
+			-0.54,
+			-0.48
+		]
+	],
+	"task_id": "eponymous_115.json"
+}

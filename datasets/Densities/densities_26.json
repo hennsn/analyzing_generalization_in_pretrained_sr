@@ -1,0 +1,14 @@
+{
+	"description": "b = 2, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pareto.html#scipy.stats.pareto",
+	"dtype": "float",
+	"expression": "2/(x_0^3)",
+	"name": "standard normal density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			1,
+			2
+		]
+	],
+	"task_id": "densities_26.json"
+}

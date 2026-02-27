@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "11.57*x_0**3 + x_1",
+	"name": "Livermore2-Vars2-15",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "livermore_39.json"
+}

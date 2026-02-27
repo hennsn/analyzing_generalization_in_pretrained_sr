@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.anglit.html#scipy.stats.anglit",
+	"dtype": "float",
+	"expression": "cos(2*x_0)",
+	"name": "anglit density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-0.7853981633974483,
+			0.7853981633974483
+		]
+	],
+	"task_id": "densities_0.json"
+}

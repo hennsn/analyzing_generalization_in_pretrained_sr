@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of medium difficulty.",
+	"dtype": "float",
+	"expression": "5618566741.08146*(8.98755178736818e+16*x_0/x_1**2 + x_2**2)/pi",
+	"name": "feynman-bonus.18",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-999.7227648113171,
+			999.6038690806378
+		],
+		[
+			100162807.1064295,
+			9991991294.967516
+		],
+		[
+			-99.84470911219663,
+			99.71383508811549
+		]
+	],
+	"task_id": "srds_194.json"
+}

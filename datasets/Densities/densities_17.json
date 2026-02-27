@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.halfcauchy.html#scipy.stats.halfcauchy",
+	"dtype": "float",
+	"expression": "2/(pi*(1 + x_0^2))",
+	"name": "Half-Cauchy density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_17.json"
+}

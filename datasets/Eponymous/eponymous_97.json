@@ -1,0 +1,22 @@
+{
+	"description": "The electron density follows a Boltzmann distribution in plasma physics.",
+	"dtype": "float",
+	"expression": "x_1*exp(x_0/x_2)",
+	"name": "Hasegawa–Mima equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			1e-06,
+			1000000.0
+		],
+		[
+			1e-06,
+			1000000.0
+		]
+	],
+	"task_id": "eponymous_97.json"
+}

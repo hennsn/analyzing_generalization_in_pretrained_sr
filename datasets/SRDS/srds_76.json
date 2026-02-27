@@ -1,0 +1,38 @@
+{
+	"description": "Feynman problem of hard difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "1.2073649260489e+34*pi*x_1*x_2*sin(x_3*(x_4 - x_6)/2)**2/(x_3*(x_4 - x_6)**2)",
+	"name": "feynman-iii.9.52",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			10.007290840148926,
+			999.9158935546875
+		],
+		[
+			-9.993039733282416e-21,
+			9.994653704829175e-21
+		],
+		[
+			-998.540283203125,
+			999.9739990234375
+		],
+		[
+			1.0001194700146423e-18,
+			9.995746475041843e-17
+		],
+		[
+			100006568.0,
+			9998353408.0
+		],
+		[
+			1.0003938336965097e-25,
+			9.999618978382366e-24
+		],
+		[
+			100017312.0,
+			9999983616.0
+		]
+	],
+	"task_id": "srds_76.json"
+}

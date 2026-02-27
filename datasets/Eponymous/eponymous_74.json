@@ -1,0 +1,22 @@
+{
+	"description": "Euler's rotation equations describe the rotation of a rigid body using a rotating reference frame with angular velocity ω.",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2 + x_0*x_1",
+	"name": "Euler's equations (rigid body dynamics)",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_74.json"
+}

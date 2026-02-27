@@ -1,0 +1,22 @@
+{
+	"description": "For laminar flow in a circular pipe, the Darcy–Weisbach equation is rewritten in terms of dynamic viscosity and volumetric flow rate.",
+	"dtype": "float",
+	"expression": "128*(x_0*x_1)/(pi*(x_2**4))",
+	"name": "Darcy–Weisbach equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			1
+		],
+		[
+			0.001,
+			1
+		],
+		[
+			0.01,
+			1
+		]
+	],
+	"task_id": "eponymous_53.json"
+}

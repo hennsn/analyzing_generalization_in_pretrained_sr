@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of hard difficulty.",
+	"dtype": "float",
+	"expression": "x_1*sqrt(1 - 1.11265005605362e-17*x_0**2)/(3.33564095198152e-9*x_0*cos(x_2) + 1)",
+	"name": "feynman-bonus.15",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			100009.68010216029,
+			9994782.979448568
+		],
+		[
+			1000363347.0339632,
+			99934722512.1721
+		],
+		[
+			0.0004599897974812701,
+			6.282535717848431
+		]
+	],
+	"task_id": "srds_153.json"
+}

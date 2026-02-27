@@ -1,0 +1,38 @@
+{
+	"description": "Feynman problem of hard difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "0.00353914989750933*pi*x_0**2*x_2**2*x_4**4/(x_4**2 - x_5**2)**2",
+	"name": "feynman-i.32.17",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-999.26318359375,
+			999.7855224609375
+		],
+		[
+			-0.9993488192558289,
+			0.9987947344779968
+		],
+		[
+			0.010015820153057575,
+			0.9986613988876343
+		],
+		[
+			-998830528.0,
+			999923840.0
+		],
+		[
+			-99908452352.0,
+			99874848768.0
+		],
+		[
+			-99992559616.0,
+			99885490176.0
+		],
+		[
+			-997142528.0,
+			995037120.0
+		]
+	],
+	"task_id": "srds_50.json"
+}

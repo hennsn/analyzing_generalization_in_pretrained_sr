@@ -1,0 +1,14 @@
+{
+	"description": "Exponential",
+	"dtype": "float",
+	"expression": "log(x_0 + 1) + log(x_0**2 + 1)",
+	"name": "Nguyen-7",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.0,
+			2.0
+		]
+	],
+	"task_id": "nguyen_6.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "c = 1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.gompertz.html#scipy.stats.gompertz",
+	"dtype": "float",
+	"expression": "exp(x_0)*exp(1 - exp(x_0))",
+	"name": "gompertz density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_15.json"
+}

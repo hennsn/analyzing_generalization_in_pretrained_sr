@@ -1,0 +1,18 @@
+{
+	"description": "The dilaton field as a function of the norm of the holomorphic n-form and a constant.",
+	"dtype": "float",
+	"expression": "x_1 + 1*log(x_0, E)/8",
+	"name": "Strominger's equations",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.1,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_177.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "c = 2.0, d = 1.0, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.burr.html#scipy.stats.burr",
+	"dtype": "float",
+	"expression": "2*(x_0^(-3))/((1+x_0^(-2))^2)",
+	"name": "bradford density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_3.json"
+}

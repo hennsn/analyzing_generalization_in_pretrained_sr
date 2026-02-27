@@ -1,0 +1,18 @@
+{
+	"description": "The Einstein gravitational constant is defined in terms of the Newtonian constant of gravitation and the speed of light in vacuum.",
+	"dtype": "float",
+	"expression": "(8*pi*x_0)/(x_1**4)",
+	"name": "Einstein field equations",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_70.json"
+}

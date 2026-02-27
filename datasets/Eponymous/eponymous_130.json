@@ -1,0 +1,22 @@
+{
+	"description": "The Mark–Houwink equation relates intrinsic viscosity to molecular weight for polymers.",
+	"dtype": "float",
+	"expression": "x_0*x_1**x_2",
+	"name": "Mark–Houwink equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0.01,
+			10
+		],
+		[
+			1000,
+			1000000
+		],
+		[
+			0.5,
+			2.0
+		]
+	],
+	"task_id": "eponymous_130.json"
+}

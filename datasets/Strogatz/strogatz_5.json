@@ -1,0 +1,18 @@
+{
+	"description": "\\dot{\\theta} from example 6.5.14, D=0.05",
+	"dtype": "float",
+	"expression": "x_0 - cos(x_1)/x_0",
+	"name": "glider_1",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.17,
+			5.6
+		],
+		[
+			-1.32,
+			28.76
+		]
+	],
+	"task_id": "strogatz_5.json"
+}

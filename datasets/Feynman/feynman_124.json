@@ -1,0 +1,18 @@
+{
+	"description": "Problem number 11 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "(x_0^4 + x_1^4)^(1/4)",
+	"name": "L4 Norm",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.9994619807818657,
+			2.9994619807818657
+		],
+		[
+			-2.987786689463965,
+			-0.9877866894639649
+		]
+	],
+	"task_id": "feynman_124.json"
+}

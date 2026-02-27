@@ -1,0 +1,26 @@
+{
+	"description": "The differential force vector exerted on the beam is given by the stress times the differential area.",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_3/x_2",
+	"name": "Euler–Bernoulli beam equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			1000,
+			100000
+		],
+		[
+			-0.1,
+			0.1
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			1e-06,
+			0.001
+		]
+	],
+	"task_id": "eponymous_80.json"
+}

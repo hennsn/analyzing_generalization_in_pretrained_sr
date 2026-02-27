@@ -1,0 +1,26 @@
+{
+	"description": "Goldstein 3.64 (ellipse)",
+	"dtype": "float",
+	"expression": "x_0*(1 - x_1**2)/(x_1*cos(x_2 - x_3) + 1)",
+	"name": "bonus_3",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			2.0,
+			4.0
+		],
+		[
+			4.0,
+			5.0
+		],
+		[
+			4.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_107.json"
+}

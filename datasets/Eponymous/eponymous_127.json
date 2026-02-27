@@ -1,0 +1,18 @@
+{
+	"description": "The Lorentz–Lorenz equation relates the refractive index of a substance to its polarizability.",
+	"dtype": "float",
+	"expression": "(4*pi)*x_0*x_1/3",
+	"name": "Lorentz–Lorenz equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1e+20,
+			1e+25
+		],
+		[
+			1e-30,
+			1e-25
+		]
+	],
+	"task_id": "eponymous_127.json"
+}

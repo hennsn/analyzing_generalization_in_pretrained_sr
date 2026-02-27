@@ -1,0 +1,22 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "x_0**2*x_1/(x_0 + x_2)**(1/4)",
+	"name": "Livermore2-Vars3-23",
+	"scientific_field": "Others",
+	"support": [
+		[
+			1.4401203136164087,
+			1.4420734386164087
+		],
+		[
+			1.1759082724680652,
+			1.1778613974680652
+		],
+		[
+			-1.4385001360593073,
+			-1.4365470110593073
+		]
+	],
+	"task_id": "livermore_72.json"
+}

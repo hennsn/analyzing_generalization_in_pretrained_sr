@@ -1,0 +1,26 @@
+{
+	"description": "Problem number 9 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "x_0*(((x_1+x_2+x_3)/x_0 + (x_1*x_2*x_3)/(x_0^3))/(1 + (x_1*x_2+x_1*x_3+x_2*x_3)/(x_0^2)))",
+	"name": "Velocity addition",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-0.12051840819183512,
+			-0.11661215819183512
+		],
+		[
+			1.7385705635364106,
+			1.7424768135364106
+		],
+		[
+			0.2966559636340951,
+			0.3005622136340951
+		],
+		[
+			-0.2584122184169364,
+			-0.2545059684169364
+		]
+	],
+	"task_id": "feynman_122.json"
+}

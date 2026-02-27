@@ -1,0 +1,18 @@
+{
+	"description": "The Hill equation for response in terms of the total amount of receptor and ligand-bound receptor concentrations.",
+	"dtype": "float",
+	"expression": "x_0/x_1",
+	"name": "Hill equation (biochemistry)",
+	"scientific_field": "Biology",
+	"support": [
+		[
+			0,
+			100
+		],
+		[
+			0,
+			100
+		]
+	],
+	"task_id": "eponymous_102.json"
+}

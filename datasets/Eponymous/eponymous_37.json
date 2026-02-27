@@ -1,0 +1,18 @@
+{
+	"description": "The imaginary part of a complex function in terms of its real and imaginary components.",
+	"dtype": "float",
+	"expression": "2*x_0*x_1",
+	"name": "Cauchy–Riemann equations",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_37.json"
+}

@@ -1,0 +1,46 @@
+{
+	"description": "The Morison equation for a moving body in an oscillatory flow includes additional terms for the body's velocity and acceleration.",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2 + x_0*x_1*x_3*(x_2 - x_4) + 1*x_0*x_5*x_6*(x_7 - x_8)*Abs(x_7 - x_8)/2",
+	"name": "Morison equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.1,
+			1000
+		],
+		[
+			0.1,
+			100
+		],
+		[
+			-10,
+			10
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			0.1,
+			100
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_135.json"
+}

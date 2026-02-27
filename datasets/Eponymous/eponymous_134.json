@@ -1,0 +1,38 @@
+{
+	"description": "The Morison equation describes the inline force on a body in oscillatory flow as the sum of an inertia force and a drag force.",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2*x_3 + 1*x_0*x_4*x_5*x_6*Abs(x_6)/2",
+	"name": "Morison equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.1,
+			1000
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			0.1,
+			100
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			0.1,
+			100
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_134.json"
+}

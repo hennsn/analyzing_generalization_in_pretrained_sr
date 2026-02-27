@@ -1,0 +1,14 @@
+{
+	"description": "c = -1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.genextreme.html#scipy.stats.genextreme",
+	"dtype": "float",
+	"expression": "exp(-(1 + x_0)^(-1))*(1 + x_0)^(-2)",
+	"name": "generalized  extreme value density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-0.5,
+			2
+		]
+	],
+	"task_id": "densities_13.json"
+}

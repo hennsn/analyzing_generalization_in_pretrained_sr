@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "sqrt(x_0*x_1/x_3)",
+	"name": "feynman-i.47.23",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0001590251922607,
+			1.9999606609344482
+		],
+		[
+			5.000398232368752e-06,
+			1.4999417544458993e-05
+		],
+		[
+			1.0005243297273383e-13,
+			9.996649341648123e-12
+		],
+		[
+			1.000038743019104,
+			1.9999902248382568
+		]
+	],
+	"task_id": "srds_12.json"
+}

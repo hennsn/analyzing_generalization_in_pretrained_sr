@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of hard difficulty.",
+	"dtype": "float",
+	"expression": "x_0*sqrt(x_1**2 + x_2**2 + x_3**2)",
+	"name": "feynman-iii.10.19",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.977469889152474e-24,
+			9.998358102456742e-24
+		],
+		[
+			-0.09974289566009745,
+			0.09997498836568576
+		],
+		[
+			-0.0999426036755663,
+			0.0999951513873857
+		],
+		[
+			-0.09993240384765008,
+			0.09989400570762316
+		]
+	],
+	"task_id": "srds_190.json"
+}

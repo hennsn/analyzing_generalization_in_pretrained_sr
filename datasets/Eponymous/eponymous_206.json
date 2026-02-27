@@ -1,0 +1,22 @@
+{
+	"description": "Zisman's linear function between the cosine of the contact angle and the surface tension for various organic liquids.",
+	"dtype": "float",
+	"expression": "x_0 + x_1*x_2",
+	"name": "Young–Dupre equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-1,
+			1
+		],
+		[
+			0,
+			1
+		],
+		[
+			10,
+			100
+		]
+	],
+	"task_id": "eponymous_206.json"
+}

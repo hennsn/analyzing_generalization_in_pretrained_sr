@@ -1,0 +1,26 @@
+{
+	"description": "Darcy's law states that flow is proportional to the pressure gradient and inversely proportional to the fluid viscosity.",
+	"dtype": "float",
+	"expression": "x_0*x_2/(x_1*x_3)",
+	"name": "Kozeny–Carman equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			10.0
+		],
+		[
+			0.001,
+			10.0
+		],
+		[
+			0.01,
+			100.0
+		],
+		[
+			0.1,
+			10.0
+		]
+	],
+	"task_id": "eponymous_113.json"
+}

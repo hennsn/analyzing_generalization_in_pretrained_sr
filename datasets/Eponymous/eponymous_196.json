@@ -1,0 +1,14 @@
+{
+	"description": "The standard logistic function is a special case of the logistic function with specific parameters.",
+	"dtype": "float",
+	"expression": "1/(1 + exp(-x_0))",
+	"name": "Verhulst equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-6,
+			6
+		]
+	],
+	"task_id": "eponymous_196.json"
+}

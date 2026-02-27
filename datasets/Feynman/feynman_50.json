@@ -1,0 +1,18 @@
+{
+	"description": "Feynman lectures: volume II, chapter 11, equation 28",
+	"dtype": "float",
+	"expression": "x_0*x_1/(-x_0*x_1/3 + 1) + 1",
+	"name": "II.11.28",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.0,
+			1.0
+		],
+		[
+			0.0,
+			1.0
+		]
+	],
+	"task_id": "feynman_50.json"
+}

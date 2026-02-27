@@ -1,0 +1,18 @@
+{
+	"description": "Feynman problem of medium difficulty.",
+	"dtype": "float",
+	"expression": "x_0/sqrt(1 - 1.11265005605362e-17*x_1**2)",
+	"name": "feynman-i.10.7",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.1001376676795888,
+			9.995204684307812
+		],
+		[
+			100021.09556619985,
+			99922331.28613602
+		]
+	],
+	"task_id": "srds_196.json"
+}

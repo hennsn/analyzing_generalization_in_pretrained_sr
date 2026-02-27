@@ -1,0 +1,30 @@
+{
+	"description": "The Randles–Ševčík equation at 25 °C describes the peak current in a cyclic voltammetry experiment as a function of scan rate and other parameters.",
+	"dtype": "float",
+	"expression": "(269/100)*10**5*x_0**(3/2)*x_1*x_2*sqrt(x_3*x_4)",
+	"name": "Randles–Sevcik equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			1,
+			10
+		],
+		[
+			1e-05,
+			0.001
+		],
+		[
+			0.01,
+			1
+		],
+		[
+			1e-06,
+			0.0001
+		],
+		[
+			1e-06,
+			0.0001
+		]
+	],
+	"task_id": "eponymous_149.json"
+}

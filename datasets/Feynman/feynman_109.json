@@ -1,0 +1,26 @@
+{
+	"description": "Goldstein 3.74 (Kepler)",
+	"dtype": "float",
+	"expression": "2*pi*x_0**(3/2)/sqrt(x_1*(x_2 + x_3))",
+	"name": "bonus_5",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		]
+	],
+	"task_id": "feynman_109.json"
+}

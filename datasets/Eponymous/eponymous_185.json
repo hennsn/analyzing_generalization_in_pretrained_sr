@@ -1,0 +1,22 @@
+{
+	"description": "The maximum change of velocity of a rocket vehicle with no external forces acting.",
+	"dtype": "float",
+	"expression": "x_2*log(x_0/x_1, E)",
+	"name": "Tsiolkovsky rocket equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1000,
+			10000
+		],
+		[
+			500,
+			5000
+		],
+		[
+			2000,
+			4000
+		]
+	],
+	"task_id": "eponymous_185.json"
+}

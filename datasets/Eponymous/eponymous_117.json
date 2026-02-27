@@ -1,0 +1,14 @@
+{
+	"description": "The solution to the Lane–Emden equation for a polytropic index of 0.",
+	"dtype": "float",
+	"expression": "-1*1*x_0**2/6 + 1",
+	"name": "Lane–Emden equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_117.json"
+}

@@ -1,0 +1,26 @@
+{
+	"description": "Traveling waves in the Camassa–Holm equation.",
+	"dtype": "float",
+	"expression": "x_2*(-x_0*x_3 + x_1)",
+	"name": "Camassa–Holm equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_25.json"
+}

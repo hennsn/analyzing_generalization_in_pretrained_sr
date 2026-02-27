@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "x_0**(1/5)",
+	"name": "Livermore-15",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0,
+			4
+		]
+	],
+	"task_id": "livermore_16.json"
+}

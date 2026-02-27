@@ -1,0 +1,14 @@
+{
+	"description": "c = 1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.fatiguelife.html#scipy.stats.fatiguelife",
+	"dtype": "float",
+	"expression": "(x_0+1)/(2*sqrt(2*pi*x_0^3))*exp(-(x_0-1)^2/(2*x_0))",
+	"name": "fatigue life density",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "densities_8.json"
+}

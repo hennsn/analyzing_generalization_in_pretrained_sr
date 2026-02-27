@@ -1,0 +1,22 @@
+{
+	"description": "The activity of a solution is proportional to the concentration of the solute, with the activity coefficient as the proportionality constant.",
+	"dtype": "float",
+	"expression": "(x_0*x_1)/x_2",
+	"name": "Debye–Hückel equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0.01,
+			10
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			0.01,
+			10
+		]
+	],
+	"task_id": "eponymous_59.json"
+}

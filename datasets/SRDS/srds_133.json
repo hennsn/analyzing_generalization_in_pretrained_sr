@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of easy difficulty.",
+	"dtype": "float",
+	"expression": "-x_0*x_1*cos(x_2)",
+	"name": "feynman-ii.15.5",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.998246364115762e-21,
+			9.99913786225e-21
+		],
+		[
+			-999.7219821666506,
+			999.4084777719415
+		],
+		[
+			0.00019707836902141838,
+			6.281203032939547
+		]
+	],
+	"task_id": "srds_133.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "sin(x_0**2)*cos(x_0) - 2",
+	"name": "Livermore-2",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1,
+			1
+		]
+	],
+	"task_id": "livermore_1.json"
+}

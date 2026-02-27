@@ -1,0 +1,14 @@
+{
+	"description": "c = 1.0, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.bradford.html#scipy.stats.bradford",
+	"dtype": "float",
+	"expression": "1/(log(2)*(1 + x_0))",
+	"name": "bradford density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "densities_2.json"
+}

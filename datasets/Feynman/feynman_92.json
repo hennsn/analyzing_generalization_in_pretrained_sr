@@ -1,0 +1,22 @@
+{
+	"description": "Feynman lectures: volume III, chapter 7, equation 38",
+	"dtype": "float",
+	"expression": "4*pi*x_0*x_1/x_2",
+	"name": "III.7.38",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_92.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "Feynman problem of hard difficulty.",
+	"dtype": "float",
+	"expression": "3.313e-34*x_0/(pi*(exp(2.39959613196403e-11*x_0/(pi*x_1)) - 1))",
+	"name": "feynman-iii.4.33",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			100167778.42606615,
+			9999551785.443125
+		],
+		[
+			10.009578395456854,
+			999.6853504013068
+		]
+	],
+	"task_id": "srds_192.json"
+}

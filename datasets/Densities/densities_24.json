@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.moyal.html#scipy.stats.moyal",
+	"dtype": "float",
+	"expression": "(exp(-(x_0+exp(-x_0))/2))/(sqrt(2*pi))",
+	"name": "Moyal density",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.0,
+			2
+		]
+	],
+	"task_id": "densities_24.json"
+}

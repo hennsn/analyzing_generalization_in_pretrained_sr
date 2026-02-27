@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "2.13*log(Abs(x_0)) + 3",
+	"name": "Korns-5",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_4.json"
+}

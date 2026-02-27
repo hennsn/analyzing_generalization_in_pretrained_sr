@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of hard difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "3.68620963570564e-51*x_2**3/(pi**3*(exp(2.39959613196403e-11*x_2/(pi*x_4)) - 1))",
+	"name": "feynman-i.41.16",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.983569277661374e+24,
+			9.998254038865551e+24
+		],
+		[
+			-9.971824278477491e-30,
+			9.996221898827678e-30
+		],
+		[
+			0.10005584359169006,
+			9.999700546264648
+		],
+		[
+			1.000044491661356e-09,
+			9.993728866675156e-08
+		],
+		[
+			10.002989768981934,
+			999.6375732421875
+		]
+	],
+	"task_id": "srds_55.json"
+}

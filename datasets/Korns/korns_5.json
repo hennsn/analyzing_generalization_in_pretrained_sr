@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "0.13*sqrt(Abs(x_0)) + 1.3",
+	"name": "Korns-6",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_5.json"
+}

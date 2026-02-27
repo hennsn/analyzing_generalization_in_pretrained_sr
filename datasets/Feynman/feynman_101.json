@@ -1,0 +1,34 @@
+{
+	"description": "Goldstein 8.56, special case where the vectors p and A are parallel.",
+	"dtype": "float",
+	"expression": "x_3*x_5 + sqrt(x_0**2*x_1**4 + x_1**2*(x_2 - x_3*x_4)**2)",
+	"name": "bonus_16",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_101.json"
+}

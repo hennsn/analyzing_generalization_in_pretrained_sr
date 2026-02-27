@@ -1,0 +1,38 @@
+{
+	"description": "Rutherford Scattering",
+	"dtype": "float",
+	"expression": "x_0**2*x_1**2*x_2**2*x_3**2*x_4**2/(16*x_5**2*sin(x_6/2)**4)",
+	"name": "bonus_1",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		]
+	],
+	"task_id": "feynman_95.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "Poisson's equation is a generalization of Laplace's equation with a specified right-hand side function.",
+	"dtype": "float",
+	"expression": "x_0",
+	"name": "Laplace's equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_118.json"
+}

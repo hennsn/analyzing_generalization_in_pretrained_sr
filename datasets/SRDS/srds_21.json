@@ -1,0 +1,38 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_0*x_2*x_4/(2*x_5)",
+	"name": "feynman-ii.34.11",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-0.99989253282547,
+			0.9998282194137573
+		],
+		[
+			-9.999494857260995e+28,
+			9.98668307699297e+28
+		],
+		[
+			-9.997594974109347e-10,
+			9.998499805874417e-10
+		],
+		[
+			1.0001569831400977e-21,
+			9.997368214331541e-20
+		],
+		[
+			-9.981902593381164e-08,
+			9.988238502955937e-08
+		],
+		[
+			1.0003708951486483e-30,
+			9.999887485179643e-29
+		],
+		[
+			1.0003471008673897e+26,
+			9.999978191470517e+27
+		]
+	],
+	"task_id": "srds_21.json"
+}

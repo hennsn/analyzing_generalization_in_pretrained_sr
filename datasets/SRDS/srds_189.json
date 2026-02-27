@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of hard difficulty.",
+	"dtype": "float",
+	"expression": "84707476846.623*x_0*sin(x_1)*cos(x_1)/(pi*x_2**3)",
+	"name": "feynman-ii.6.15b",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.986594676345886e-21,
+			9.998986122473684e-21
+		],
+		[
+			5.805419476982607e-05,
+			3.1413283645255383
+		],
+		[
+			1.0005004134464156e-10,
+			9.986871817442388e-09
+		]
+	],
+	"task_id": "srds_189.json"
+}

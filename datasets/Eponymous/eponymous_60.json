@@ -1,0 +1,26 @@
+{
+	"description": "The mean activity coefficient for a fully dissociated electrolyte of formula AnBm.",
+	"dtype": "float",
+	"expression": "(x_0**x_1*x_2**x_3)**(1/(x_1 + x_3))",
+	"name": "Debye–Hückel equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0.01,
+			10
+		],
+		[
+			1,
+			5
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			1,
+			5
+		]
+	],
+	"task_id": "eponymous_60.json"
+}

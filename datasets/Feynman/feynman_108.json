@@ -1,0 +1,30 @@
+{
+	"description": "Goldstein 3.16",
+	"dtype": "float",
+	"expression": "sqrt(2)*sqrt((x_1 - x_2 - x_3**2/(2*x_0*x_4**2))/x_0)",
+	"name": "bonus_4",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			8.0,
+			12.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		]
+	],
+	"task_id": "feynman_108.json"
+}

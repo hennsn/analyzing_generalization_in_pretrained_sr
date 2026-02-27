@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_0*(exp(7.24297051603992e+22*x_1*x_2/x_4) - 1)",
+	"name": "feynman-iii.14.14",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-0.09980472922325134,
+			0.09990173578262329
+		],
+		[
+			1.0002850941511056e-22,
+			9.999285593142045e-21
+		],
+		[
+			-9.98605728149414,
+			9.983579635620117
+		],
+		[
+			-9.99328327178955,
+			9.992319107055664
+		],
+		[
+			10.002307891845703,
+			998.3088989257812
+		]
+	],
+	"task_id": "srds_110.json"
+}

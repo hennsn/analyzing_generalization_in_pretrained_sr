@@ -1,0 +1,34 @@
+{
+	"description": "Goldstein 3.55",
+	"dtype": "float",
+	"expression": "x_0*x_1*(sqrt(1 + 2*x_2**2*x_3/(x_0*x_1**2))*cos(x_4 - x_5) + 1)/x_2**2",
+	"name": "bonus_2",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			0.0,
+			6.0
+		],
+		[
+			0.0,
+			6.0
+		]
+	],
+	"task_id": "feynman_105.json"
+}

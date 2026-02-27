@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "6.6743e-11*x_0*x_1*(-1/x_4 + 1/x_2)",
+	"name": "feynman-i.13.12",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.010002161376178265,
+			0.999896764755249
+		],
+		[
+			0.010035805404186249,
+			0.9996387958526611
+		],
+		[
+			0.010005059652030468,
+			0.9999000430107117
+		],
+		[
+			-9.999443323870354e-15,
+			9.996402475589711e-15
+		],
+		[
+			0.010006800293922424,
+			0.9977954626083374
+		]
+	],
+	"task_id": "srds_83.json"
+}

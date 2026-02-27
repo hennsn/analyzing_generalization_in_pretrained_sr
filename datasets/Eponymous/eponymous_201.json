@@ -1,0 +1,30 @@
+{
+	"description": "This equation describes the hydrostatic pressure in a capillary tube.",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2 - x_1*x_3*sin(x_4)",
+	"name": "Washburn's equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			9.8,
+			9.9
+		],
+		[
+			0.01,
+			1.0
+		],
+		[
+			0.01,
+			1.0
+		],
+		[
+			0.01,
+			1.0
+		],
+		[
+			0,
+			180
+		]
+	],
+	"task_id": "eponymous_201.json"
+}

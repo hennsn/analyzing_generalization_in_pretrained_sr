@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "x_0*(x_0 + 1)/2",
+	"name": "Keijzer-6",
+	"scientific_field": "Others",
+	"support": [
+		[
+			1,
+			50
+		]
+	],
+	"task_id": "keijzer_5.json"
+}

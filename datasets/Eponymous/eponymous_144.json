@@ -1,0 +1,22 @@
+{
+	"description": "This is the Weierstrass form of an elliptic curve.",
+	"dtype": "float",
+	"expression": "4*x_0**3 - x_0*x_1 - x_2",
+	"name": "Picard–Fuchs equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		]
+	],
+	"task_id": "eponymous_144.json"
+}

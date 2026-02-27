@@ -1,0 +1,30 @@
+{
+	"description": "The van der Waals equation of state for real gases, which includes the non-zero size of gas molecules and the interactions between them.",
+	"dtype": "float",
+	"expression": "(x_0*x_1)/(x_2 - x_3) - x_4/(x_2**2)",
+	"name": "Van der Waals equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0,
+			1000
+		],
+		[
+			0,
+			1000
+		],
+		[
+			0.001,
+			10
+		],
+		[
+			0,
+			0.1
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_194.json"
+}

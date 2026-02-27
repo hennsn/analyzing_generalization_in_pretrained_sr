@@ -1,0 +1,26 @@
+{
+	"description": "The Darcy–Weisbach equation in terms of volumetric flow rate Q.",
+	"dtype": "float",
+	"expression": "x_0*8*x_2**2/((pi**2*x_1)*x_3**5)",
+	"name": "Darcy–Weisbach equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			1
+		],
+		[
+			1,
+			10
+		],
+		[
+			0.001,
+			1
+		],
+		[
+			0.01,
+			1
+		]
+	],
+	"task_id": "eponymous_55.json"
+}

@@ -1,0 +1,26 @@
+{
+	"description": "The activity of isotope B in a three-step decay chain is described as a function of time and decay rates.",
+	"dtype": "float",
+	"expression": "x_0*x_2*(-exp(-x_2*x_3) + exp(-x_1*x_3))/(-x_1 + x_2)",
+	"name": "Bateman equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0,
+			1000
+		],
+		[
+			0.001,
+			1
+		],
+		[
+			0.001,
+			1
+		],
+		[
+			0,
+			1000
+		]
+	],
+	"task_id": "eponymous_9.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "The optimal velocity for minimizing HETP in the van Deemter equation.",
+	"dtype": "float",
+	"expression": "sqrt(x_0/x_1)",
+	"name": "Van Deemter's equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "eponymous_189.json"
+}

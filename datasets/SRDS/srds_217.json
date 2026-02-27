@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of medium difficulty.",
+	"dtype": "float",
+	"expression": "sqrt((x_0 - x_1)**2 + (x_2 - x_3)**2)",
+	"name": "feynman-i.8.14",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.999492097715748,
+			9.995800147998198
+		],
+		[
+			-9.99156570523261,
+			9.998513364826488
+		],
+		[
+			-9.996197692869535,
+			9.994975227420914
+		],
+		[
+			-9.991101398864807,
+			9.991967308447848
+		]
+	],
+	"task_id": "srds_217.json"
+}

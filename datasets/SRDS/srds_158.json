@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of hard difficulty.",
+	"dtype": "float",
+	"expression": "7.83707760458308e-29*x_0**2*(x_0/x_1 - sin(x_2)**2 + x_1/x_0)/(pi*x_1**2)",
+	"name": "feynman-bonus.20",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1000231058.7252804,
+			99940712032.28494
+		],
+		[
+			1000855119.6610872,
+			99967094079.51466
+		],
+		[
+			0.0017195558662491096,
+			6.281599192593633
+		]
+	],
+	"task_id": "srds_158.json"
+}

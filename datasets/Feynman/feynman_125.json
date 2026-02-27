@@ -1,0 +1,22 @@
+{
+	"description": "Problem number 12 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2 - x_2*sqrt(1 - x_0^2)*sqrt(1-x_1^2)- x_1*sqrt(1 - x_0^2)*sqrt(1-x_2^2) - x_0*sqrt(1 - x_1^2)*sqrt(1-x_2^2)",
+	"name": "2.0 mystery number 12",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.9327809291515141,
+			0.9952809291515141
+		],
+		[
+			-0.6901104506009879,
+			-0.6276104506009879
+		],
+		[
+			0.8038061536253802,
+			0.8663061536253802
+		]
+	],
+	"task_id": "feynman_125.json"
+}

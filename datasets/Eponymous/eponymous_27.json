@@ -1,0 +1,18 @@
+{
+	"description": "The Carothers equation for linear polymers with one monomer in excess.",
+	"dtype": "float",
+	"expression": "(x_0 + 1)/(-1*2*x_0*x_1 + x_0 + 1)",
+	"name": "Carothers equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			0.99
+		],
+		[
+			0.5,
+			1
+		]
+	],
+	"task_id": "eponymous_27.json"
+}

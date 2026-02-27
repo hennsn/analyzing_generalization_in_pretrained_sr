@@ -1,0 +1,26 @@
+{
+	"description": "Problem number 1 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "5.41 + 4.9*((x_0-x_1+x_2/x_3)/(3*x_3))",
+	"name": "2.0 mystery number 1",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.4595981423674069,
+			1.459598142367407
+		],
+		[
+			-2.4453063420664787,
+			-1.4453063420664787
+		],
+		[
+			-1.1172899185589862,
+			-0.11728991855898618
+		],
+		[
+			0.23486895159523424,
+			1.2348689515952342
+		]
+	],
+	"task_id": "feynman_114.json"
+}

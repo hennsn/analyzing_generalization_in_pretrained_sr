@@ -1,0 +1,14 @@
+{
+	"description": "The Cesàro equation for a circle.",
+	"dtype": "float",
+	"expression": "1/x_0",
+	"name": "Cesàro equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_40.json"
+}

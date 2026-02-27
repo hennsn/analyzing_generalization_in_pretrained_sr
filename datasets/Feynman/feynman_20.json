@@ -1,0 +1,26 @@
+{
+	"description": "Feynman lectures: volume I, chapter 29, equation 16",
+	"dtype": "float",
+	"expression": "sqrt(x_0**2 - 2*x_0*x_1*cos(x_2 - x_3) + x_1**2)",
+	"name": "I.29.16",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_20.json"
+}

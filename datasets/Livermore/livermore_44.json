@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "(x_0**2 + x_1)**2*(-x_0/(-8.62*x_0**2 - 5.38*x_0*x_1) + x_1)**4*sin(sqrt(x_0))**4/x_0**4",
+	"name": "Livermore2-Vars2-20",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.4406818431665105,
+			2.4406818431665105
+		],
+		[
+			0.4200841692302051,
+			2.420084169230205
+		]
+	],
+	"task_id": "livermore_44.json"
+}

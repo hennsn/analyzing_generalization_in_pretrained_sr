@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "8.854e-12*x_0**2",
+	"name": "feynman-ii.27.18",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.10000946372747421,
+			9.994476318359375
+		],
+		[
+			-9.978626687115191e-27,
+			9.99136401739539e-27
+		],
+		[
+			-99962.859375,
+			99878.796875
+		]
+	],
+	"task_id": "srds_19.json"
+}

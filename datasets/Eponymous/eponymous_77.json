@@ -1,0 +1,18 @@
+{
+	"description": "The Euler–Bernoulli equation describes the relationship between the beam's deflection and the applied load.",
+	"dtype": "float",
+	"expression": "x_0/x_1",
+	"name": "Euler–Bernoulli beam equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			-1000,
+			1000
+		],
+		[
+			1000,
+			100000
+		]
+	],
+	"task_id": "eponymous_77.json"
+}

@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "-(4.2*cos(x_0) - 4.2*tan(x_1))*tanh(x_2)/sin(x_3) + 22",
+	"name": "Korns-14",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_13.json"
+}

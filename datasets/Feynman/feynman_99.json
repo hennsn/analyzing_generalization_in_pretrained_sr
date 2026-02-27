@@ -1,0 +1,30 @@
+{
+	"description": "Jackson 4.60",
+	"dtype": "float",
+	"expression": "x_0*(-x_2 + x_3**3*(x_4 - 1)/(x_2**2*(x_4 + 2)))*cos(x_1)",
+	"name": "bonus_14",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			0.0,
+			6.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_99.json"
+}

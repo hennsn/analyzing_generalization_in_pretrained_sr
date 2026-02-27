@@ -1,0 +1,26 @@
+{
+	"description": "The Hazen–Williams equation for full pipe flows relates the slope of the energy line to the flow rate, pipe roughness coefficient, and pipe diameter.",
+	"dtype": "float",
+	"expression": "19707*x_1**(463/250)/(2500*((x_2**(463/250)*x_3**(3044/625)))*(x_0**(463/250)))",
+	"name": "Hazen–Williams equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			0.04
+		],
+		[
+			0.001,
+			100
+		],
+		[
+			0.001,
+			1
+		],
+		[
+			0.001,
+			10
+		]
+	],
+	"task_id": "eponymous_100.json"
+}

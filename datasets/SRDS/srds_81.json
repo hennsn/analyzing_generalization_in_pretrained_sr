@@ -1,0 +1,38 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_0*(x_2 + x_3*x_4*sin(x_5))",
+	"name": "feynman-i.12.11",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.998960805284767,
+			9.993178433980066
+		],
+		[
+			-9.989473393621074e+17,
+			9.982609692284682e+17
+		],
+		[
+			0.10019778655389906,
+			9.99758494028264
+		],
+		[
+			0.10000319601245308,
+			9.997894486849239
+		],
+		[
+			0.10000617579082116,
+			9.995670591144528
+		],
+		[
+			7.286559761183158e-05,
+			1.570534912297836
+		],
+		[
+			-9.991152349897447e-10,
+			9.997606076339594e-10
+		]
+	],
+	"task_id": "srds_81.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "x_2*(-x_1 + x_2 + (-x_0**2 + 4.45*x_1**2 + x_2 - exp(2*exp(-sin(x_0 - x_2))))*exp(x_0))",
+	"name": "Livermore2-Vars3-1",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "livermore_50.json"
+}

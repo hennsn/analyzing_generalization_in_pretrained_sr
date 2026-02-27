@@ -1,0 +1,14 @@
+{
+	"description": "Feynman lectures: volume I, chapter 6, equation 2a",
+	"dtype": "float",
+	"expression": "sqrt(2)*exp(-x_0**2/2)/(2*sqrt(pi))",
+	"name": "I.6.2a",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		]
+	],
+	"task_id": "feynman_43.json"
+}

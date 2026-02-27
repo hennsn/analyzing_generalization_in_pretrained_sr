@@ -1,0 +1,30 @@
+{
+	"description": "This equation describes the penetration of a liquid into a substrate flowing under its own capillary pressure.",
+	"dtype": "float",
+	"expression": "x_4**(1/2)*((x_0*cos(x_1))/2)**(1/2)*(x_2/x_3)**(1/2)",
+	"name": "Washburn's equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.47,
+			1.49
+		],
+		[
+			0.83,
+			0.85
+		],
+		[
+			1.07,
+			1.08
+		],
+		[
+			0.0,
+			0.02
+		],
+		[
+			0.92,
+			0.94
+		]
+	],
+	"task_id": "eponymous_203.json"
+}

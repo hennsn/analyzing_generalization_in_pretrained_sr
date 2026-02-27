@@ -1,0 +1,14 @@
+{
+	"description": "The logistic function can be expressed in terms of the hyperbolic tangent function.",
+	"dtype": "float",
+	"expression": "1*tanh(x_0/2)/2 + 1/2",
+	"name": "Verhulst equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-6,
+			6
+		]
+	],
+	"task_id": "eponymous_197.json"
+}

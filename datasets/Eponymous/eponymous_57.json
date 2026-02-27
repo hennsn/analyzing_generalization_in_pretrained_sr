@@ -1,0 +1,14 @@
+{
+	"description": "For laminar flows, the Darcy friction factor is inversely proportional to the Reynolds number.",
+	"dtype": "float",
+	"expression": "64/x_0",
+	"name": "Darcy–Weisbach equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			1,
+			2000
+		]
+	],
+	"task_id": "eponymous_57.json"
+}

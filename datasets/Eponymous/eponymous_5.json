@@ -1,0 +1,22 @@
+{
+	"description": "The Avrami equation describes the kinetics of crystallization or phase transformation in materials.",
+	"dtype": "float",
+	"expression": "1 - exp(-x_0*x_1**x_2)",
+	"name": "Avrami equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.01,
+			100
+		],
+		[
+			0.01,
+			100
+		],
+		[
+			1,
+			10
+		]
+	],
+	"task_id": "eponymous_5.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "(4.0755 - 2.85*x_0)*(x_0 + x_1)*(x_0 - x_2)/x_0",
+	"name": "Livermore2-Vars3-10",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "livermore_59.json"
+}

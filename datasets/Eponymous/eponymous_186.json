@@ -1,0 +1,22 @@
+{
+	"description": "The Van 't Hoff equation relates the change in the equilibrium constant to the change in temperature, given the standard enthalpy change for the process.",
+	"dtype": "float",
+	"expression": "-x_1/x_0 + x_2/x_0",
+	"name": "Van 't Hoff equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			273.15,
+			373.15
+		],
+		[
+			1,
+			100000
+		],
+		[
+			1,
+			100000
+		]
+	],
+	"task_id": "eponymous_186.json"
+}

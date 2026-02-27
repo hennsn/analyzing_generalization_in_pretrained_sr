@@ -1,0 +1,34 @@
+{
+	"description": "Feynman lectures: volume I, chapter 40, equation 1",
+	"dtype": "float",
+	"expression": "x_0*exp(-x_1*x_2*x_4/(x_3*x_5))",
+	"name": "I.40.1",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_34.json"
+}

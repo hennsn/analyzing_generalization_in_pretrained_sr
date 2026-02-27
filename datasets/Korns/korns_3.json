@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "0.13*sin(x_0) - 2.3",
+	"name": "Korns-4",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_3.json"
+}

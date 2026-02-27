@@ -1,0 +1,26 @@
+{
+	"description": "N-slit diffraction",
+	"dtype": "float",
+	"expression": "4*x_0*sin(x_1/2)**2*sin(x_2*x_3/2)**2/(x_1**2*sin(x_2/2)**2)",
+	"name": "bonus_11",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			2.0
+		]
+	],
+	"task_id": "feynman_96.json"
+}

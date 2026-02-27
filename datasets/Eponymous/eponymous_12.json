@@ -1,0 +1,14 @@
+{
+	"description": "Transformed equation from the example Bernoulli equation using substitution u = 1/y.",
+	"dtype": "float",
+	"expression": "x_0**2",
+	"name": "Bernoulli differential equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_12.json"
+}

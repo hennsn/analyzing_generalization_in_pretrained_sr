@@ -1,0 +1,22 @@
+{
+	"description": "The modified Einstein relation for the diffusion coefficient in the case of a Fermi gas or Fermi liquid.",
+	"dtype": "float",
+	"expression": "(x_0*x_1)/x_2",
+	"name": "Stokes–Einstein equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1e-06,
+			0.001
+		],
+		[
+			1,
+			10
+		],
+		[
+			1,
+			10
+		]
+	],
+	"task_id": "eponymous_176.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.expon.html#scipy.stats.expon",
+	"dtype": "float",
+	"expression": "exp(-x_0)",
+	"name": "exponential density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_6.json"
+}

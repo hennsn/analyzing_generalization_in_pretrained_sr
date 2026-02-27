@@ -1,0 +1,14 @@
+{
+	"description": "Problem number 3 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "213.80940889*(1 - exp(-0.54723748542*x_0))",
+	"name": "2.0 mystery number 3",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-1.0834737187424541,
+			0.9165262812575459
+		]
+	],
+	"task_id": "feynman_116.json"
+}

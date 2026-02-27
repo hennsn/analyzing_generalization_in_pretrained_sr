@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rayleigh.html#scipy.stats.rayleigh",
+	"dtype": "float",
+	"expression": "x_0*exp(-x_0^2/2)",
+	"name": "rayleigh density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_28.json"
+}

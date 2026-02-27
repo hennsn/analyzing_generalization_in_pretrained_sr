@@ -1,0 +1,30 @@
+{
+	"description": "The Fenske equation for gas chromatography relates the mole fractions of components in the vapor and liquid phases to the number of equilibrium stages and vapor pressures.",
+	"dtype": "float",
+	"expression": "x_0*(x_2/x_3)**x_4/x_1",
+	"name": "Fenske equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0.01,
+			0.99
+		],
+		[
+			0.01,
+			0.99
+		],
+		[
+			0.01,
+			1.0
+		],
+		[
+			0.01,
+			1.0
+		],
+		[
+			1,
+			10
+		]
+	],
+	"task_id": "eponymous_84.json"
+}

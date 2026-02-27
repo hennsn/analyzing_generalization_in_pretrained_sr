@@ -1,0 +1,38 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "x_0/(97.02*x_1**2*x_5**4 + x_2 + x_5*sin(x_6/x_4)) + x_2**(1/4) - x_3*x_6 - log(x_5)**2",
+	"name": "Livermore2-Vars7-7",
+	"scientific_field": "Others",
+	"support": [
+		[
+			1.6729903706763665,
+			1.7979903706763665
+		],
+		[
+			0.1712420204746512,
+			0.2962420204746512
+		],
+		[
+			0.29221641773438245,
+			0.41721641773438245
+		],
+		[
+			0.12542800359445794,
+			0.25042800359445794
+		],
+		[
+			-0.6966856721529329,
+			-0.5716856721529329
+		],
+		[
+			0.17000748237932717,
+			0.29500748237932717
+		],
+		[
+			0.7184575846607393,
+			0.8434575846607393
+		]
+	],
+	"task_id": "livermore_156.json"
+}

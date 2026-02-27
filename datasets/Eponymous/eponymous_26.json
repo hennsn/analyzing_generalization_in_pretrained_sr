@@ -1,0 +1,14 @@
+{
+	"description": "The Carothers equation for linear polymers with two monomers in equimolar quantities.",
+	"dtype": "float",
+	"expression": "1/(1 - x_0)",
+	"name": "Carothers equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			0.99
+		]
+	],
+	"task_id": "eponymous_26.json"
+}

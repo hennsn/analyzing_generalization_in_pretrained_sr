@@ -1,0 +1,14 @@
+{
+	"description": "p = 0.2, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.geom.html#scipy.stats.geom",
+	"dtype": "int",
+	"expression": "0.8^(x_0-1)*0.2",
+	"name": "Geometric density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			1,
+			20
+		]
+	],
+	"task_id": "densities_31.json"
+}

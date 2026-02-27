@@ -1,0 +1,30 @@
+{
+	"description": "Feynman lectures: volume II, chapter 35, equation 18",
+	"dtype": "float",
+	"expression": "x_0/(exp(x_3*x_4/(x_1*x_2)) + exp(-x_3*x_4/(x_1*x_2)))",
+	"name": "II.35.18",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		]
+	],
+	"task_id": "feynman_68.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "Linear dispersion relation of the BBM equation.",
+	"dtype": "float",
+	"expression": "x_0/(x_0**2 + 1)",
+	"name": "Benjamin–Bona–Mahony equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-100,
+			100
+		]
+	],
+	"task_id": "eponymous_10.json"
+}

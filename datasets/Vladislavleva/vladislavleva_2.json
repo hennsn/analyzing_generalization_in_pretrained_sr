@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Vladislavleva et al.",
+	"dtype": "float",
+	"expression": "x_0**3*(x_1 - 5)*(sin(x_0)**2*cos(x_0) - 1)*exp(-x_0)*sin(x_0)*cos(x_0)",
+	"name": "Vladislavleva-3",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.05,
+			10
+		],
+		[
+			0.05,
+			10.05
+		]
+	],
+	"task_id": "vladislavleva_2.json"
+}

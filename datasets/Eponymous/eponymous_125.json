@@ -1,0 +1,26 @@
+{
+	"description": "The Lorentz force law describes the electromagnetic force on a charge q due to electric field E and magnetic field B.",
+	"dtype": "float",
+	"expression": "x_0*(x_1 + x_2*x_3)",
+	"name": "Lorentz equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-1e-06,
+			1e-06
+		],
+		[
+			-1000000.0,
+			1000000.0
+		],
+		[
+			-1000000.0,
+			1000000.0
+		],
+		[
+			-1000000.0,
+			1000000.0
+		]
+	],
+	"task_id": "eponymous_125.json"
+}

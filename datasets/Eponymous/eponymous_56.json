@@ -1,0 +1,22 @@
+{
+	"description": "The mean wall shear stress in a pipe is expressed in terms of the Darcy–Weisbach friction factor.",
+	"dtype": "float",
+	"expression": "1*x_0*x_1*x_2**2/8",
+	"name": "Darcy–Weisbach equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			1
+		],
+		[
+			500,
+			1500
+		],
+		[
+			0.1,
+			10
+		]
+	],
+	"task_id": "eponymous_56.json"
+}

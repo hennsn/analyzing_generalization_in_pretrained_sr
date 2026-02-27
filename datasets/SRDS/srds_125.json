@@ -1,0 +1,18 @@
+{
+	"description": "Feynman problem of easy difficulty.",
+	"dtype": "float",
+	"expression": "sin(x_0)/sin(x_1)",
+	"name": "feynman-i.26.2",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.0002477699950855587,
+			1.5707464780736662
+		],
+		[
+			6.762592361130758e-05,
+			1.5706056514909563
+		]
+	],
+	"task_id": "srds_125.json"
+}

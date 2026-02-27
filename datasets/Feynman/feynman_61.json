@@ -1,0 +1,18 @@
+{
+	"description": "Feynman lectures: volume II, chapter 27, equation 18",
+	"dtype": "float",
+	"expression": "x_0*x_1**2",
+	"name": "II.27.18",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_61.json"
+}

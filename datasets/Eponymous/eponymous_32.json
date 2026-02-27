@@ -1,0 +1,14 @@
+{
+	"description": "Dispersity index for linear polymers.",
+	"dtype": "float",
+	"expression": "x_0 + 1",
+	"name": "Carothers equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			0.99
+		]
+	],
+	"task_id": "eponymous_32.json"
+}

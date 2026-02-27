@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "x_0 + sin(x_0**2) + 0.333333333333333",
+	"name": "Livermore-1",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "livermore_0.json"
+}

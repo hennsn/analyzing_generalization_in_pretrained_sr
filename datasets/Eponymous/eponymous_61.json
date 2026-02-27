@@ -1,0 +1,18 @@
+{
+	"description": "Helmholtz equation for the electrostatic potential.",
+	"dtype": "float",
+	"expression": "x_0**2*x_1",
+	"name": "Debye–Hückel equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1e-10,
+			1e-06
+		],
+		[
+			1e-10,
+			1e-06
+		]
+	],
+	"task_id": "eponymous_61.json"
+}

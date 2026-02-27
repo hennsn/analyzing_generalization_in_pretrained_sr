@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "x_2*(-x_3 + 1.81/x_2) + sqrt(x_1*(-x_0**2*exp(x_1) - x_1)) - 2.34*x_3/x_0",
+	"name": "Livermore2-Vars4-16",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-0.7303868890811107,
+			-0.6053868890811107
+		],
+		[
+			-0.19952047383154792,
+			-0.07452047383154792
+		],
+		[
+			-1.7865813997555526,
+			-1.6615813997555526
+		],
+		[
+			1.4675766941960315,
+			1.5925766941960315
+		]
+	],
+	"task_id": "livermore_90.json"
+}

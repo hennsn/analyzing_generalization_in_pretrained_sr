@@ -1,0 +1,26 @@
+{
+	"description": "A general fit formula for the peak currents as a function of the scan rate in a cyclic voltammetry experiment.",
+	"dtype": "float",
+	"expression": "x_0 + x_1*(x_2/(-3 + 1*E))**x_3",
+	"name": "Randles–Sevcik equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			-1.77,
+			0.23
+		],
+		[
+			-1.78,
+			0.22
+		],
+		[
+			-2.59,
+			-0.59
+		],
+		[
+			0.42,
+			2.42
+		]
+	],
+	"task_id": "eponymous_150.json"
+}

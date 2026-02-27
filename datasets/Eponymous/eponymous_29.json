@@ -1,0 +1,14 @@
+{
+	"description": "Weight average degree of polymerization for linear polymers.",
+	"dtype": "float",
+	"expression": "(x_0 + 1)/(1 - x_0)",
+	"name": "Carothers equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			0.99
+		]
+	],
+	"task_id": "eponymous_29.json"
+}

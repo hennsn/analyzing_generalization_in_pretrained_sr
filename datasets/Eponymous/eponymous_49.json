@@ -1,0 +1,22 @@
+{
+	"description": "Definition of the non-dimensional temperature perturbation in Clarke's equation.",
+	"dtype": "float",
+	"expression": "(x_0 - x_1)/((x_1*x_2))",
+	"name": "Clarke's equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			273,
+			373
+		],
+		[
+			273,
+			373
+		],
+		[
+			0.01,
+			0.1
+		]
+	],
+	"task_id": "eponymous_49.json"
+}

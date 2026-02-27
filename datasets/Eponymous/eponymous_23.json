@@ -1,0 +1,18 @@
+{
+	"description": "The transition layer profile in the Cahn–Hilliard equation is given by a hyperbolic tangent function.",
+	"dtype": "float",
+	"expression": "tanh(x_0/(sqrt(2*x_1)))",
+	"name": "Cahn–Hilliard equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			0.01,
+			1
+		]
+	],
+	"task_id": "eponymous_23.json"
+}

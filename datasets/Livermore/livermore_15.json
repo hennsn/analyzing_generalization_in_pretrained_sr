@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "x_0**3 + x_0**2 + x_0 + sin(x_0) + sin(x_1**2)",
+	"name": "Livermore-14",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1,
+			1
+		],
+		[
+			-1,
+			1
+		]
+	],
+	"task_id": "livermore_15.json"
+}

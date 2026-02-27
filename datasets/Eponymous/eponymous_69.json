@@ -1,0 +1,22 @@
+{
+	"description": "The Einstein tensor is defined in terms of the Ricci curvature tensor and the scalar curvature.",
+	"dtype": "float",
+	"expression": "x_0 - 1*1*x_1*x_2/2",
+	"name": "Einstein field equations",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_69.json"
+}

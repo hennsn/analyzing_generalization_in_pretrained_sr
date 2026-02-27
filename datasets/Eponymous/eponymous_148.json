@@ -1,0 +1,30 @@
+{
+	"description": "The Prony equation calculates the head loss due to friction within a given run of pipe.",
+	"dtype": "float",
+	"expression": "x_0*(x_2*x_3 + x_3**2*x_4)/x_1",
+	"name": "Prony equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.1,
+			100
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			0.01,
+			5
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			0.01,
+			10
+		]
+	],
+	"task_id": "eponymous_148.json"
+}

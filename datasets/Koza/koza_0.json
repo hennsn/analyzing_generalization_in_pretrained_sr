@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by John Koza",
+	"dtype": "float",
+	"expression": "x_0**5 - 2*x_0**3 + x_0",
+	"name": "Koza-2",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1.0,
+			1.0
+		]
+	],
+	"task_id": "koza_0.json"
+}

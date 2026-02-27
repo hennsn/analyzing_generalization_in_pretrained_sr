@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "24.3*(2*x_0 + 3*x_1**2)/(4*x_2**3 + 5*x_3**4) + 0.81",
+	"name": "Korns-10",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_9.json"
+}

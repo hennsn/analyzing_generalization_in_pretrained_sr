@@ -1,0 +1,26 @@
+{
+	"description": "Feynman lectures: volume III, chapter 21, equation 20",
+	"dtype": "float",
+	"expression": "-x_0*x_1*x_2/x_3",
+	"name": "III.21.20",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_89.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "c = 1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.foldcauchy.html#scipy.stats.foldcauchy",
+	"dtype": "float",
+	"expression": "1/(pi*(1 + (x_0-1)^2)) + 1/(pi*(1 + (x_0+1)^2))",
+	"name": "folded cauchy density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_9.json"
+}

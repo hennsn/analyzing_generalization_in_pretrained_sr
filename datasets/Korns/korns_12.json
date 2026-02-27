@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "-3*tan(x_0)*tan(x_1)/(tan(x_2)*tan(x_3)) + 32",
+	"name": "Korns-13",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_12.json"
+}

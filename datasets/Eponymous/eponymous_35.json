@@ -1,0 +1,18 @@
+{
+	"description": "The Cauchy's functional equation defines an additive function where the function of the sum of two variables equals the sum of the function of each variable.",
+	"dtype": "float",
+	"expression": "x_0 + x_1",
+	"name": "Cauchy's functional equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		]
+	],
+	"task_id": "eponymous_35.json"
+}

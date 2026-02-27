@@ -1,0 +1,22 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "sqrt(x_0) + exp(x_0*x_2*(x_0 + x_1)*(11.13*x_0*x_2**2 + 2*x_0 + x_2)*cos(x_0**2))",
+	"name": "Livermore2-Vars3-16",
+	"scientific_field": "Others",
+	"support": [
+		[
+			1.0501360839940532,
+			1.3001360839940532
+		],
+		[
+			0.10842696233659943,
+			0.35842696233659943
+		],
+		[
+			0.591152870603525,
+			0.841152870603525
+		]
+	],
+	"task_id": "livermore_65.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "Problem number 13 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "(x_0*x_2 + sqrt(1 - x_0^2-x_1^2+x_0^2*x_1^2))/(x_1*sqrt(1 - x_0^2) - x_0*sqrt(1 - x_1^2))",
+	"name": "2.0 mystery number 13",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-0.5896003408362422,
+			-0.46460034083624224
+		],
+		[
+			-0.7254732025502602,
+			-0.6004732025502602
+		],
+		[
+			-2.0572762249495202,
+			-1.9322762249495202
+		]
+	],
+	"task_id": "feynman_126.json"
+}

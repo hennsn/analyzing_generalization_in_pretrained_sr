@@ -1,0 +1,18 @@
+{
+	"description": "The simplified Taft equation for reactions not significantly influenced by steric effects.",
+	"dtype": "float",
+	"expression": "x_0*x_1",
+	"name": "Taft equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_182.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of easy difficulty.",
+	"dtype": "float",
+	"expression": "sqrt(x_0*x_1/x_2)",
+	"name": "feynman-i.47.23",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0001590668076847,
+			1.9999606454714796
+		],
+		[
+			5.00039810666476e-06,
+			1.4999417986299418e-05
+		],
+		[
+			1.0000387300426623,
+			1.999990187974244
+		]
+	],
+	"task_id": "srds_129.json"
+}

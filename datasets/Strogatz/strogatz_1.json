@@ -1,0 +1,18 @@
+{
+	"description": "\\dot{y} from example 8.2.10, A=10, B=20, q=0.5",
+	"dtype": "float",
+	"expression": "-x_0*x_1/(0.5*x_0**2 + 1) + 10",
+	"name": "bacterial_respiration_1",
+	"scientific_field": "Biology",
+	"support": [
+		[
+			3.49,
+			16.33
+		],
+		[
+			9.8,
+			54.44
+		]
+	],
+	"task_id": "strogatz_1.json"
+}

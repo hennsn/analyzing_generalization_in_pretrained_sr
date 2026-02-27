@@ -1,0 +1,18 @@
+{
+	"description": "The plate height in chromatography is given by the ratio of column length to the number of theoretical plates.",
+	"dtype": "float",
+	"expression": "x_0/x_1",
+	"name": "Van Deemter's equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			1,
+			1000
+		]
+	],
+	"task_id": "eponymous_190.json"
+}

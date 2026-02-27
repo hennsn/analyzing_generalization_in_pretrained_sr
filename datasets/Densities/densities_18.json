@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.halflogistic.html#scipy.stats.halflogistic",
+	"dtype": "float",
+	"expression": "(2*exp(-x_0))/((1 + exp(-x_0))^2)",
+	"name": "Half-Logistic density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_18.json"
+}

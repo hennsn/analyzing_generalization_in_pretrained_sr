@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "2.1380940889 - 2.1380940889*exp(-0.54723748542*x_0)",
+	"name": "Korns-7",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_6.json"
+}

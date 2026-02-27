@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "log(x_0)",
+	"name": "Keijzer-7",
+	"scientific_field": "Others",
+	"support": [
+		[
+			1,
+			100
+		]
+	],
+	"task_id": "keijzer_6.json"
+}

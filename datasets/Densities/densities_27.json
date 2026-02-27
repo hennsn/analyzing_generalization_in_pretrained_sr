@@ -1,0 +1,14 @@
+{
+	"description": "a = 0.5, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.powerlaw.html#scipy.stats.powerlaw",
+	"dtype": "float",
+	"expression": "1/(2*sqrt(x_0))",
+	"name": "power law density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "densities_27.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "The Henderson–Hasselbalch equation relates the pH of a solution to the acid dissociation constant and the ratio of the concentrations of the base and acid.",
+	"dtype": "float",
+	"expression": "x_0 + log(x_1/x_2, 10)",
+	"name": "Henderson–Hasselbalch equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			14
+		],
+		[
+			1e-06,
+			1
+		],
+		[
+			1e-06,
+			1
+		]
+	],
+	"task_id": "eponymous_101.json"
+}

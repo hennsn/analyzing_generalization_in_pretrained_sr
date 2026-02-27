@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "x_0**(2/3)",
+	"name": "Livermore-16",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0,
+			4
+		]
+	],
+	"task_id": "livermore_17.json"
+}

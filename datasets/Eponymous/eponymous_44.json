@@ -1,0 +1,18 @@
+{
+	"description": "The Cesàro equation for a catenary.",
+	"dtype": "float",
+	"expression": "x_0/(x_0**2 + x_1**2)",
+	"name": "Cesàro equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_44.json"
+}

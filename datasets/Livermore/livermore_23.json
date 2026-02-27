@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "x_0**8 + x_0**7 + x_0**6 + x_0**5 + x_0**4 + x_0**3 + x_0**2 + x_0",
+	"name": "Livermore-22",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1,
+			1
+		]
+	],
+	"task_id": "livermore_23.json"
+}

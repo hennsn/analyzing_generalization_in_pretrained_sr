@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "3.313e-34*x_1/pi",
+	"name": "feynman-i.34.27",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.99852180480957,
+			9.993311882019043
+		],
+		[
+			1000068544.0,
+			99986440192.0
+		],
+		[
+			1.0006365192138598e+28,
+			9.997775726966571e+29
+		],
+		[
+			1.0005568135921235e-26,
+			9.99652230489892e-25
+		]
+	],
+	"task_id": "srds_92.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "The Kozeny equation for absolute permeability describes the permeability of a packed bed of solids.",
+	"dtype": "float",
+	"expression": "x_0**2*(x_1**3*x_2**2)/((180*(1 - x_1)**2))",
+	"name": "Kozeny–Carman equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.1,
+			1.0
+		],
+		[
+			0.1,
+			0.6
+		],
+		[
+			0.001,
+			0.1
+		]
+	],
+	"task_id": "eponymous_114.json"
+}

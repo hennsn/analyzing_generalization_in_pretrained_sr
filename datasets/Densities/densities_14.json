@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.gibrat.html#scipy.stats.gibrat",
+	"dtype": "float",
+	"expression": "1/(x_0*sqrt(2*pi))*exp(-0.5*(log(x_0)^2))",
+	"name": "gibrat density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_14.json"
+}

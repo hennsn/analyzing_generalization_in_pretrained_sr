@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_0/sqrt(1 - 1.11265005605362e-17*x_1**2)",
+	"name": "feynman-i.10.7",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.10013766586780548,
+			9.99520492553711
+		],
+		[
+			100021.09375,
+			99922328.0
+		],
+		[
+			10010474053632.0,
+			998663849508864.0
+		]
+	],
+	"task_id": "srds_79.json"
+}

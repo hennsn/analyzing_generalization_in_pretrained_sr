@@ -1,0 +1,14 @@
+{
+	"description": "c = 1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.invweibull.html#scipy.stats.invweibull",
+	"dtype": "float",
+	"expression": "exp(-1/x_0)/(x_0^2)",
+	"name": "Inverse Weibull density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0.2,
+			2
+		]
+	],
+	"task_id": "densities_21.json"
+}

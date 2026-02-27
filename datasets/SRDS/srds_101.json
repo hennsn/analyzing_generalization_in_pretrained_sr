@@ -1,0 +1,34 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_0*x_1/(x_2*(x_4**2 - x_5**2))",
+	"name": "feynman-ii.11.3",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.998056826887591e-10,
+			9.99791027744834e-10
+		],
+		[
+			1.0003396999636038e-09,
+			9.997071970246907e-08
+		],
+		[
+			1.0003787493317028e-28,
+			9.998726462386794e-27
+		],
+		[
+			-9.99945025895261e-17,
+			9.99866542998742e-17
+		],
+		[
+			-99908927488.0,
+			99978543104.0
+		],
+		[
+			-99852976128.0,
+			99949330432.0
+		]
+	],
+	"task_id": "srds_101.json"
+}

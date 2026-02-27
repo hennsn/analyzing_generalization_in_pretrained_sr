@@ -1,0 +1,22 @@
+{
+	"description": "The pressure difference in a tube can be written in terms of the contact angle and the radius of the tube.",
+	"dtype": "float",
+	"expression": "(2*x_0*cos(x_1))/x_2",
+	"name": "Young–Laplace equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.01,
+			1.0
+		],
+		[
+			0.0,
+			1.57
+		],
+		[
+			0.01,
+			1.0
+		]
+	],
+	"task_id": "eponymous_209.json"
+}

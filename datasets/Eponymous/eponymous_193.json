@@ -1,0 +1,18 @@
+{
+	"description": "The plate count in chromatography can be estimated using the retention time and the width at the base of the peak.",
+	"dtype": "float",
+	"expression": "16*(x_0/x_1)**2",
+	"name": "Van Deemter's equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			100
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_193.json"
+}

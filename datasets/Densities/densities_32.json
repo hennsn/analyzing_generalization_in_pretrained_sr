@@ -1,0 +1,14 @@
+{
+	"description": "p = 0.9, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.logser.html#scipy.stats.logser",
+	"dtype": "int",
+	"expression": "-(0.9^x_0)/(x_0*log(0.1))",
+	"name": "Log Series density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			1,
+			20
+		]
+	],
+	"task_id": "densities_32.json"
+}

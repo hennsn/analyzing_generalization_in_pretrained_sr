@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of hard difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "3.32662926626791e-57*x_0**2*x_2**2/(x_3**2*sin(x_4/2)**4)",
+	"name": "feynman-bonus.1",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			9.0
+		],
+		[
+			1.0000821685059584e+16,
+			9.995194977254113e+17
+		],
+		[
+			1.0,
+			9.0
+		],
+		[
+			1.0005784518570327e-18,
+			9.996356603461662e-17
+		],
+		[
+			0.0008436709176748991,
+			6.279631614685059
+		]
+	],
+	"task_id": "srds_30.json"
+}

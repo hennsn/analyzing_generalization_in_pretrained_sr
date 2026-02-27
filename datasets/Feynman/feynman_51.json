@@ -1,0 +1,30 @@
+{
+	"description": "Feynman lectures: volume II, chapter 11, equation 3",
+	"dtype": "float",
+	"expression": "x_0*x_1/(x_2*(x_3**2 - x_4**2))",
+	"name": "II.11.3",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			3.0,
+			5.0
+		],
+		[
+			1.0,
+			2.0
+		]
+	],
+	"task_id": "feynman_51.json"
+}

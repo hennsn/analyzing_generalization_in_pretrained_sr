@@ -1,0 +1,18 @@
+{
+	"description": "\\dot{\\phi} from example 6.6.11, A=0.1",
+	"dtype": "float",
+	"expression": "(0.1*sin(x_1)**2 + cos(x_1)**2)*sin(x_0)",
+	"name": "shear_flow_1",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-4.35,
+			3.59
+		],
+		[
+			-2.74,
+			2.14
+		]
+	],
+	"task_id": "strogatz_11.json"
+}

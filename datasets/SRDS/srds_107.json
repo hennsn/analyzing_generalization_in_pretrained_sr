@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "28235825615.541*x_0*cos(x_1)/(pi*x_4**2)",
+	"name": "feynman-ii.6.11",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.997925268775307e-21,
+			9.998234653711448e-21
+		],
+		[
+			0.00035118302912451327,
+			6.283115386962891
+		],
+		[
+			-9.988547315653573e-12,
+			9.996605973561223e-12
+		],
+		[
+			-99757116620800.0,
+			99945919021056.0
+		],
+		[
+			1.0000562183920536e-10,
+			9.997465966193886e-09
+		]
+	],
+	"task_id": "srds_107.json"
+}

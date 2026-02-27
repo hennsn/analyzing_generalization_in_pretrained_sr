@@ -1,0 +1,30 @@
+{
+	"description": "Feynman lectures: volume II, chapter 35, equation 21",
+	"dtype": "float",
+	"expression": "x_0*x_1*tanh(x_1*x_2/(x_3*x_4))",
+	"name": "II.35.21",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_69.json"
+}

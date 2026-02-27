@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of hard difficulty.",
+	"dtype": "float",
+	"expression": "sqrt(x_0**2 + 2*x_0*x_1*cos(x_2 - x_3) + x_1**2)",
+	"name": "feynman-i.29.16",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.10002787211696035,
+			9.997538499286652
+		],
+		[
+			0.10001065778559817,
+			9.992803395722607
+		],
+		[
+			0.0035727066405966423,
+			6.282705345412873
+		],
+		[
+			0.00023153397659277864,
+			6.282468865061671
+		]
+	],
+	"task_id": "srds_165.json"
+}

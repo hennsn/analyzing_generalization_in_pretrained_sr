@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_0*(x_1*cos(x_3) + 1)",
+	"name": "feynman-iii.17.37",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0001814051630072e-18,
+			9.996896586965536e-17
+		],
+		[
+			-9.995225682128179e-17,
+			9.990222893783458e-17
+		],
+		[
+			1.0002600697053107e+24,
+			9.99781339226649e+25
+		],
+		[
+			8.953209180617705e-05,
+			6.282550811767578
+		],
+		[
+			1.0000669494589087e-25,
+			9.99797262567317e-24
+		]
+	],
+	"task_id": "srds_113.json"
+}

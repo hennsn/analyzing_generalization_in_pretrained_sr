@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_0/(2*x_3 + 2)",
+	"name": "feynman-ii.38.14",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.10000671446323395,
+			9.999781608581543
+		],
+		[
+			-99937.8203125,
+			99869.515625
+		],
+		[
+			1.0006918849114754e-08,
+			9.99752387542685e-07
+		],
+		[
+			0.010004949755966663,
+			0.9999260902404785
+		],
+		[
+			1.0016027981819824e-28,
+			9.994316082814147e-27
+		]
+	],
+	"task_id": "srds_23.json"
+}

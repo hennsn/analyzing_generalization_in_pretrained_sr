@@ -1,0 +1,18 @@
+{
+	"description": "The strain of a fiber in the beam is given by the ratio of the radial distance to the radius of curvature.",
+	"dtype": "float",
+	"expression": "x_0/x_1",
+	"name": "Euler–Bernoulli beam equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			-0.1,
+			0.1
+		],
+		[
+			0.1,
+			10
+		]
+	],
+	"task_id": "eponymous_78.json"
+}

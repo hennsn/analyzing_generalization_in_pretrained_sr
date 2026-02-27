@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html#scipy.stats.norm",
+	"dtype": "float",
+	"expression": "(exp(-x_0^2/2))/(sqrt(2*pi))",
+	"name": "standard normal density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-2,
+			2
+		]
+	],
+	"task_id": "densities_25.json"
+}

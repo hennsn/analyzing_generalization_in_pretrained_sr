@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "6.28331859077038e-7*x_0/(pi*x_2)",
+	"name": "feynman-ii.13.17",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-0.0999753326177597,
+			0.09994620084762573
+		],
+		[
+			1.0002325723235117e-07,
+			9.985910764953587e-06
+		],
+		[
+			0.0010005187941715121,
+			0.09997595101594925
+		],
+		[
+			1.0000339643547227e-16,
+			9.999249353325433e-15
+		]
+	],
+	"task_id": "srds_14.json"
+}

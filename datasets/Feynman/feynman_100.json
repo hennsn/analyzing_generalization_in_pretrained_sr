@@ -1,0 +1,26 @@
+{
+	"description": "Jackson 11.38 (Doppler)",
+	"dtype": "float",
+	"expression": "x_2*sqrt(1 - x_1**2/x_0**2)/(1 + x_1*cos(x_3)/x_0)",
+	"name": "bonus_15",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			5.0,
+			20.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			0.0,
+			6.0
+		]
+	],
+	"task_id": "feynman_100.json"
+}

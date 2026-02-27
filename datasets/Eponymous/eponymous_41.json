@@ -1,0 +1,18 @@
+{
+	"description": "The Cesàro equation for a logarithmic spiral.",
+	"dtype": "float",
+	"expression": "x_0/x_1",
+	"name": "Cesàro equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_41.json"
+}

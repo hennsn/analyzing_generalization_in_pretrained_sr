@@ -1,0 +1,18 @@
+{
+	"description": "The modified Hammett constant σp– is defined using the ionization constants of para substituted phenols.",
+	"dtype": "float",
+	"expression": "1*log(x_0/x_1, 10)/(211/100)",
+	"name": "Hammett equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0.01,
+			100
+		],
+		[
+			0.01,
+			100
+		]
+	],
+	"task_id": "eponymous_95.json"
+}

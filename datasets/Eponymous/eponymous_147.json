@@ -1,0 +1,22 @@
+{
+	"description": "The lift coefficient for a flat elliptical wing using Lifting-Line Theory.",
+	"dtype": "float",
+	"expression": "(2*pi*x_0)/(x_1 + 2/x_2)",
+	"name": "Prandtl–Glauert equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_147.json"
+}

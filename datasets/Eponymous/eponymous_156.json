@@ -1,0 +1,18 @@
+{
+	"description": "The plate count in chromatography can be estimated using the retention time and standard deviation.",
+	"dtype": "float",
+	"expression": "(x_0/x_1)**2",
+	"name": "Rodrigues equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "eponymous_156.json"
+}

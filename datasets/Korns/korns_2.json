@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "-5.41 + 1.63333333333333*(-x_0 + x_1/x_3 + x_2)/x_3",
+	"name": "Korns-3",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_2.json"
+}

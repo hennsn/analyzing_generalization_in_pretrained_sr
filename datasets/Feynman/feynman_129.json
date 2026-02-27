@@ -1,0 +1,22 @@
+{
+	"description": "Problem number 16 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "x_0/(cot(x_1/2) + cot(x_2/2))",
+	"name": "Incircle",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-1.1855560163358758,
+			-1.1543060163358758
+		],
+		[
+			-0.9073499989236327,
+			-0.8760999989236327
+		],
+		[
+			0.921689091666924,
+			0.952939091666924
+		]
+	],
+	"task_id": "feynman_129.json"
+}

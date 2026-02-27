@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.cauchy.html#scipy.stats.cauchy",
+	"dtype": "float",
+	"expression": "1/(pi*(1 + x_0^2))",
+	"name": "cauchy density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-1,
+			1
+		]
+	],
+	"task_id": "densities_4.json"
+}

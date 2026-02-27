@@ -1,0 +1,30 @@
+{
+	"description": "The stretched exponential form of the Arrhenius equation is an empirical correction to fit the data.",
+	"dtype": "float",
+	"expression": "x_0*exp(-(x_1/((x_2*x_3)))**x_4)",
+	"name": "Arrhenius equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			1e-05,
+			100000.0
+		],
+		[
+			1000.0,
+			100000.0
+		],
+		[
+			1,
+			100
+		],
+		[
+			1,
+			100
+		],
+		[
+			0.5,
+			1.5
+		]
+	],
+	"task_id": "eponymous_4.json"
+}

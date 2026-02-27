@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "4*sin(x_0)*cos(x_1)",
+	"name": "Livermore-17",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "livermore_18.json"
+}

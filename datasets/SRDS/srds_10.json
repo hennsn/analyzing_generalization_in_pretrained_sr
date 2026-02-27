@@ -1,0 +1,34 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_1/(x_2*sin(x_3))",
+	"name": "feynman-i.30.5",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.986472920107286e-16,
+			9.995114773751648e-16
+		],
+		[
+			1.0000148923562944e-11,
+			9.998790412739323e-10
+		],
+		[
+			1.0,
+			99.0
+		],
+		[
+			0.0004153955715457805,
+			1.5707743213498873
+		],
+		[
+			-9.996955344848206e+22,
+			9.989758592643668e+22
+		],
+		[
+			1.0014486450536449e-21,
+			9.988059847500905e-20
+		]
+	],
+	"task_id": "srds_10.json"
+}

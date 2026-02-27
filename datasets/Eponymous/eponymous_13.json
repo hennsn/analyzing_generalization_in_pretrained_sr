@@ -1,0 +1,14 @@
+{
+	"description": "Solution of the transformed equation using integrating factor M(x) = x^2.",
+	"dtype": "float",
+	"expression": "x_0**4",
+	"name": "Bernoulli differential equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_13.json"
+}

@@ -1,0 +1,30 @@
+{
+	"description": "Washburn's equation describes the penetration length of a liquid into a capillary pore or tube with time.",
+	"dtype": "float",
+	"expression": "sqrt((x_0*x_1*x_2*cos(x_3))/((2*x_4)))",
+	"name": "Washburn's equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-1.75,
+			-1.72
+		],
+		[
+			-1.19,
+			-1.16
+		],
+		[
+			1.82,
+			1.85
+		],
+		[
+			-0.57,
+			-0.54
+		],
+		[
+			0.0,
+			0.03
+		]
+	],
+	"task_id": "eponymous_199.json"
+}

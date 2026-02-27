@@ -1,0 +1,22 @@
+{
+	"description": "The Van 't Hoff plot is used to estimate the enthalpy and entropy of a chemical reaction by plotting the natural logarithm of the equilibrium constant versus the reciprocal temperature.",
+	"dtype": "float",
+	"expression": "-x_1/x_0 + x_2/x_0",
+	"name": "Van 't Hoff equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			273.15,
+			373.15
+		],
+		[
+			1,
+			100000
+		],
+		[
+			1,
+			100000
+		]
+	],
+	"task_id": "eponymous_187.json"
+}

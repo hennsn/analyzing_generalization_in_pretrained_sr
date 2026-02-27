@@ -1,0 +1,26 @@
+{
+	"description": "Compton Scattering",
+	"dtype": "float",
+	"expression": "x_0/(x_0*(1 - cos(x_3))/(x_1*x_2**2) + 1)",
+	"name": "bonus_8",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		]
+	],
+	"task_id": "feynman_112.json"
+}

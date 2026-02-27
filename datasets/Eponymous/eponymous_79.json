@@ -1,0 +1,22 @@
+{
+	"description": "The stress of a fiber in the beam is given by the elastic modulus times the strain.",
+	"dtype": "float",
+	"expression": "x_0*x_1/x_2",
+	"name": "Euler–Bernoulli beam equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			1000,
+			100000
+		],
+		[
+			-0.1,
+			0.1
+		],
+		[
+			0.1,
+			10
+		]
+	],
+	"task_id": "eponymous_79.json"
+}

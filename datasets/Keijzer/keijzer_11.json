@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "x_0**4 - x_0**3 + x_1**2/2 - x_1",
+	"name": "Keijzer-12",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-3,
+			3
+		],
+		[
+			-3,
+			3
+		]
+	],
+	"task_id": "keijzer_11.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "6*sin(x_0)*cos(x_1)",
+	"name": "Keijzer-13",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-3,
+			3
+		],
+		[
+			-3,
+			3
+		]
+	],
+	"task_id": "keijzer_12.json"
+}

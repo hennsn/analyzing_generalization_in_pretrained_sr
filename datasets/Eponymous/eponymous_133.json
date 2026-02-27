@@ -1,0 +1,18 @@
+{
+	"description": "The equilibrium concentration distribution in the Mason–Weaver equation.",
+	"dtype": "float",
+	"expression": "x_0*exp(-x_1)",
+	"name": "Mason–Weaver equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1e-10,
+			1e-05
+		],
+		[
+			1e-10,
+			1e-05
+		]
+	],
+	"task_id": "eponymous_133.json"
+}

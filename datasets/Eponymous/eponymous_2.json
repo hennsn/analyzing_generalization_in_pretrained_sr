@@ -1,0 +1,26 @@
+{
+	"description": "The Archard wear equation describes the volume of wear debris produced as a function of the work done by friction forces.",
+	"dtype": "float",
+	"expression": "(x_0*x_1*x_2)/x_3",
+	"name": "Archard equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0,
+			1000000
+		],
+		[
+			0,
+			1000000
+		],
+		[
+			0,
+			1000000
+		],
+		[
+			0,
+			1000000
+		]
+	],
+	"task_id": "eponymous_2.json"
+}

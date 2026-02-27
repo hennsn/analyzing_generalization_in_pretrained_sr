@@ -1,0 +1,46 @@
+{
+	"description": "Feynman lectures: volume I, chapter 9, equation 18",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2/((-x_3 + x_4)**2 + (-x_5 + x_6)**2 + (-x_7 + x_8)**2)",
+	"name": "I.9.18",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			3.0,
+			4.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			3.0,
+			4.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			3.0,
+			4.0
+		],
+		[
+			1.0,
+			2.0
+		]
+	],
+	"task_id": "feynman_46.json"
+}

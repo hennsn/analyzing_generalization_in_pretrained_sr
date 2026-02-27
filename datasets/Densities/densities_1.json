@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.arcsine.html#scipy.stats.arcsine",
+	"dtype": "float",
+	"expression": "1/(pi*sqrt(x_0*(1 - x_0)))",
+	"name": "arcsine density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0.001,
+			0.999
+		]
+	],
+	"task_id": "densities_1.json"
+}

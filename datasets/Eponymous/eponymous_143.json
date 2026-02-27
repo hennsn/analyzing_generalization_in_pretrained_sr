@@ -1,0 +1,18 @@
+{
+	"description": "This equation describes the periods of elliptic curves in terms of the j-invariant.",
+	"dtype": "float",
+	"expression": "x_0**3/(x_0**3 - 1*27*x_1**2)",
+	"name": "Picard–Fuchs equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-100,
+			100
+		],
+		[
+			-100,
+			100
+		]
+	],
+	"task_id": "eponymous_143.json"
+}

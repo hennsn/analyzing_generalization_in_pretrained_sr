@@ -1,0 +1,26 @@
+{
+	"description": "The third-order Birch–Murnaghan isothermal equation of state relates pressure to volume.",
+	"dtype": "float",
+	"expression": "(3*x_0)*((x_1/x_2)**(7/3) - (x_1/x_2)**(5/3))*(3*(x_3 - 4)*((x_1/x_2)**(2/3) - 1)/4 + 1)/2",
+	"name": "Birch–Murnaghan equation of state",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1,
+			100
+		],
+		[
+			1,
+			100
+		],
+		[
+			1,
+			100
+		],
+		[
+			1,
+			100
+		]
+	],
+	"task_id": "eponymous_14.json"
+}

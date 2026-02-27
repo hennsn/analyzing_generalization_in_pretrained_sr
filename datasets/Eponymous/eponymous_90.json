@@ -1,0 +1,18 @@
+{
+	"description": "The Gibbs–Helmholtz equation describes the change in the Gibbs free energy of a system as a function of temperature.",
+	"dtype": "float",
+	"expression": "-x_1/(x_0**2)",
+	"name": "Gibbs–Helmholtz equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			273.15,
+			373.15
+		],
+		[
+			0,
+			1000
+		]
+	],
+	"task_id": "eponymous_90.json"
+}

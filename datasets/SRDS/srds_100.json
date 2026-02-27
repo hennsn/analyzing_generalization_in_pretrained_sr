@@ -1,0 +1,38 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "sqrt((x_2 - x_3)**2 + (x_4 - x_6)**2)",
+	"name": "feynman-i.8.14",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-9.997142433155784e-29,
+			9.997034099596412e-29
+		],
+		[
+			1.0006165154279366e-33,
+			9.994445585804263e-32
+		],
+		[
+			-9.999491691589355,
+			9.995800018310547
+		],
+		[
+			-9.991565704345703,
+			9.998513221740723
+		],
+		[
+			-9.996197700500488,
+			9.994975090026855
+		],
+		[
+			-99972644864.0,
+			99889758208.0
+		],
+		[
+			-9.991101264953613,
+			9.99196720123291
+		]
+	],
+	"task_id": "srds_100.json"
+}

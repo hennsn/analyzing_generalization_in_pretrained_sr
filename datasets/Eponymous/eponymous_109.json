@@ -1,0 +1,42 @@
+{
+	"description": "The Born–Landé equation for calculating lattice energy in ionic crystals.",
+	"dtype": "float",
+	"expression": "-x_0*x_1*x_2*x_3*x_4**2*(1 - 1*1/x_7)/(4*pi*x_5*x_6)",
+	"name": "Kapustinskii equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			1,
+			10
+		]
+	],
+	"task_id": "eponymous_109.json"
+}

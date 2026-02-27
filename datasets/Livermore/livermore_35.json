@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "x_0*x_1 + sqrt(x_1) + 3.52*sin(x_0)",
+	"name": "Livermore2-Vars2-11",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.9942784644764089,
+			2.994278464476409
+		],
+		[
+			0.9880397850544242,
+			2.9880397850544242
+		]
+	],
+	"task_id": "livermore_35.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.semicircular.html#scipy.stats.semicircular",
+	"dtype": "float",
+	"expression": "2/pi*sqrt(1 - x_0^2)",
+	"name": "semicircular density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-1,
+			1
+		]
+	],
+	"task_id": "densities_29.json"
+}

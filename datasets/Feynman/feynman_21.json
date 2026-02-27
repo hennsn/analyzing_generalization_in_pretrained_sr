@@ -1,0 +1,18 @@
+{
+	"description": "Feynman lectures: volume I, chapter 29, equation 4",
+	"dtype": "float",
+	"expression": "x_0/x_1",
+	"name": "I.29.4",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			10.0
+		],
+		[
+			1.0,
+			10.0
+		]
+	],
+	"task_id": "feynman_21.json"
+}

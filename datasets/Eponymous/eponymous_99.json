@@ -1,0 +1,22 @@
+{
+	"description": "The Hazen–Williams equation relates the mean velocity of water in a pipe with the geometric properties of the pipe and slope of the energy line.",
+	"dtype": "float",
+	"expression": "x_0*x_1**(63/100)*x_2**(27/50)",
+	"name": "Hazen–Williams equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			0.04
+		],
+		[
+			0.001,
+			100
+		],
+		[
+			0.001,
+			1
+		]
+	],
+	"task_id": "eponymous_99.json"
+}

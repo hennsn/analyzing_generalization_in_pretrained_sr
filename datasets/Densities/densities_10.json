@@ -1,0 +1,14 @@
+{
+	"description": "c = 1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.genlogistic.html#scipy.stats.genlogistic",
+	"dtype": "float",
+	"expression": "exp(-x_0)/(1+exp(-x_0))^2",
+	"name": "logistic density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-2,
+			2
+		]
+	],
+	"task_id": "densities_10.json"
+}

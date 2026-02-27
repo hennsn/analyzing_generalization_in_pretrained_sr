@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "log(x_0) + log(x_0 + 1) + log(x_0**2 + 1)",
+	"name": "Livermore-4",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "livermore_3.json"
+}

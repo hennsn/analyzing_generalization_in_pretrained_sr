@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "x_0 + sin(2*x_1 + x_2 - x_3*exp(x_0) + 2.96*sqrt(-0.36*x_1**3 + x_1*x_2**2 + 0.94) + log((-x_0 + x_1)*log(x_1)))",
+	"name": "Livermore2-Vars4-18",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-2.247375831741486,
+			-1.7473758317414858
+		],
+		[
+			1.038885484844148,
+			1.538885484844148
+		],
+		[
+			-0.9997917972751105,
+			-0.49979179727511047
+		],
+		[
+			-2.0105111917803575,
+			-1.5105111917803575
+		]
+	],
+	"task_id": "livermore_92.json"
+}

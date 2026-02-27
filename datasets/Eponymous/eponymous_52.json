@@ -1,0 +1,26 @@
+{
+	"description": "The pressure loss due to viscous effects in a cylindrical pipe is characterized by the Darcy–Weisbach equation.",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2**2/(2*x_3)",
+	"name": "Darcy–Weisbach equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			1
+		],
+		[
+			500,
+			1500
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			0.01,
+			1
+		]
+	],
+	"task_id": "eponymous_52.json"
+}

@@ -1,0 +1,34 @@
+{
+	"description": "This equation represents the Gaussian solution to the Boltzmann equation under local equilibrium.",
+	"dtype": "float",
+	"expression": "x_0*(x_1/((2*pi*x_2*x_3)))**(3/2)*exp(-x_1*(x_4 - x_5)**2/(2*x_2*x_3))",
+	"name": "Chapman–Enskog equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-1.97,
+			-1.72
+		],
+		[
+			1.79,
+			2.04
+		],
+		[
+			0.05,
+			0.3
+		],
+		[
+			0.88,
+			1.13
+		],
+		[
+			1.55,
+			1.8
+		],
+		[
+			1.74,
+			1.99
+		]
+	],
+	"task_id": "eponymous_45.json"
+}

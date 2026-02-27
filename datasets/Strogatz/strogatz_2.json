@@ -1,0 +1,18 @@
+{
+	"description": "\\dot{\\theta_1} from example 8.1.12, K=0.5",
+	"dtype": "float",
+	"expression": "-sin(x_0) + 0.5*sin(x_0 - x_1)",
+	"name": "bar_magnets_0",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			4.12,
+			5.98
+		],
+		[
+			0.21,
+			6.64
+		]
+	],
+	"task_id": "strogatz_2.json"
+}

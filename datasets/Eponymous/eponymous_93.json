@@ -1,0 +1,14 @@
+{
+	"description": "The Blasius correlation for the Darcy friction factor in turbulent flow in smooth conduits.",
+	"dtype": "float",
+	"expression": "79/(250*x_0**(1/4))",
+	"name": "Haaland equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			4000,
+			100000
+		]
+	],
+	"task_id": "eponymous_93.json"
+}

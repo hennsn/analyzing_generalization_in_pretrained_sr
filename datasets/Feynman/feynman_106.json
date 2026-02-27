@@ -1,0 +1,38 @@
+{
+	"description": "Schwarz 13.132 (Klein-Nishina)",
+	"dtype": "float",
+	"expression": "x_1**2*x_2**2*x_3**2*(x_0/x_1 - sin(x_6)**2 + x_1/x_0)/(4*pi*x_0**2*x_4**2*x_5**2)",
+	"name": "bonus_20",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			0.0,
+			6.0
+		]
+	],
+	"task_id": "feynman_106.json"
+}

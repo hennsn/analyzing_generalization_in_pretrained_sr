@@ -1,0 +1,22 @@
+{
+	"description": "The ideal gas law describes the relationship between pressure, volume, number of moles, and temperature of an ideal gas.",
+	"dtype": "float",
+	"expression": "(x_0*x_1)/x_2",
+	"name": "List of equations",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1000,
+			110000
+		],
+		[
+			0.001,
+			100
+		],
+		[
+			0.001,
+			100
+		]
+	],
+	"task_id": "eponymous_119.json"
+}

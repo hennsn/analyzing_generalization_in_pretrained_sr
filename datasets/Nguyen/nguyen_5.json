@@ -1,0 +1,14 @@
+{
+	"description": "Trigonometric",
+	"dtype": "float",
+	"expression": "sin(x_0) + sin(x_0**2 + x_0)",
+	"name": "Nguyen-6",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1.0,
+			1.0
+		]
+	],
+	"task_id": "nguyen_5.json"
+}

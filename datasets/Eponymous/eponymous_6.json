@@ -1,0 +1,22 @@
+{
+	"description": "The Avrami equation in logarithmic form allows determination of the constants n and K from a plot.",
+	"dtype": "float",
+	"expression": "x_1*log(x_2, E) + log(x_0, E)",
+	"name": "Avrami equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.01,
+			100
+		],
+		[
+			1,
+			10
+		],
+		[
+			0.01,
+			100
+		]
+	],
+	"task_id": "eponymous_6.json"
+}

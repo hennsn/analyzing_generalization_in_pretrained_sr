@@ -1,0 +1,34 @@
+{
+	"description": "Feynman problem of hard difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "244808.861301089*pi*x_0**1.5/sqrt(x_2 + x_4)",
+	"name": "feynman-bonus.5",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			100004240.0,
+			9998453760.0
+		],
+		[
+			1.0001765189250238e+22,
+			9.997772838252566e+23
+		],
+		[
+			1.000134275160519e+23,
+			9.997466593477905e+24
+		],
+		[
+			1.0011065302624743e+24,
+			9.99780047954564e+25
+		],
+		[
+			1.000118962921786e+23,
+			9.999614486240988e+24
+		],
+		[
+			1.0003693243120374e-27,
+			9.99231188307682e-26
+		]
+	],
+	"task_id": "srds_43.json"
+}

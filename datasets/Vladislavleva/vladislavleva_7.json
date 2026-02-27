@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Vladislavleva et al.",
+	"dtype": "float",
+	"expression": "(-x_1 + (x_0 - 3)**4 + (x_1 - 3)**3 + 3)/((x_1 - 2)**4 + 10)",
+	"name": "Vladislavleva-8",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.05,
+			6.05
+		],
+		[
+			0.05,
+			6.05
+		]
+	],
+	"task_id": "vladislavleva_7.json"
+}

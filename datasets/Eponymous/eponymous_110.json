@@ -1,0 +1,26 @@
+{
+	"description": "The Karplus equation describes the correlation between 3J-coupling constants and dihedral torsion angles in nuclear magnetic resonance spectroscopy.",
+	"dtype": "float",
+	"expression": "x_0*cos(2*x_1) + x_2*cos(x_1) + x_3",
+	"name": "Karplus equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			360
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_110.json"
+}

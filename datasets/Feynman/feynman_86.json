@@ -1,0 +1,22 @@
+{
+	"description": "Feynman lectures: volume III, chapter 15, equation 27",
+	"dtype": "float",
+	"expression": "2*pi*x_0/(x_1*x_2)",
+	"name": "III.15.27",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_86.json"
+}

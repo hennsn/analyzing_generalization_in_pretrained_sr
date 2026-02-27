@@ -1,0 +1,22 @@
+{
+	"description": "The E cross B drift velocity in plasma physics is approximated by the electric and magnetic fields.",
+	"dtype": "float",
+	"expression": "(x_0*x_1)/((x_1**2*x_2))",
+	"name": "Hasegawa–Mima equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			1e-06,
+			1000000.0
+		],
+		[
+			1e-06,
+			1000000.0
+		]
+	],
+	"task_id": "eponymous_98.json"
+}

@@ -1,0 +1,30 @@
+{
+	"description": "The Nernst equation expressed in terms of base-10 logarithms for the cell potential as a function of standard cell potential, thermal voltage, number of electrons transferred, and activities of the reduced and oxidized forms.",
+	"dtype": "float",
+	"expression": "x_0 - x_1*log(x_3/x_4, E)/x_2",
+	"name": "Nernst equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			273.15,
+			373.15
+		],
+		[
+			0.02,
+			0.03
+		],
+		[
+			1,
+			10
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			0.1,
+			10
+		]
+	],
+	"task_id": "eponymous_136.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "The Hammett equation describes a linear free-energy relationship relating reaction rates and equilibrium constants for reactions involving benzoic acid derivatives with meta- and para-substituents.",
+	"dtype": "float",
+	"expression": "x_0*x_1",
+	"name": "Hammett equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_94.json"
+}

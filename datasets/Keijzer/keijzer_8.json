@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "log(x_0 + sqrt(x_0**2 + 1))",
+	"name": "Keijzer-9",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0,
+			100
+		]
+	],
+	"task_id": "keijzer_8.json"
+}

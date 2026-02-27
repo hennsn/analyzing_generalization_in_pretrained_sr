@@ -1,0 +1,18 @@
+{
+	"description": "Phase speed for the Fornberg–Whitham equation as a function of wavenumber.",
+	"dtype": "float",
+	"expression": "x_0**2/(x_0**2 + x_1**2)",
+	"name": "Whitham equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.1,
+			1.0
+		],
+		[
+			0.01,
+			1.0
+		]
+	],
+	"task_id": "eponymous_204.json"
+}

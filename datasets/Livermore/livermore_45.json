@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "x_0 + log(x_0 + 0.75/(x_0 + x_1 + 0.41))",
+	"name": "Livermore2-Vars2-21",
+	"scientific_field": "Others",
+	"support": [
+		[
+			1.3058574379773793,
+			1.3061015786023793
+		],
+		[
+			-1.7158226615176924,
+			-1.7155785208926924
+		]
+	],
+	"task_id": "livermore_45.json"
+}

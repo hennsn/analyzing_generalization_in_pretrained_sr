@@ -1,0 +1,22 @@
+{
+	"description": "The integrated form of the Gibbs–Helmholtz equation for chemical reactions allows the calculation of Gibbs free energy change at any temperature.",
+	"dtype": "float",
+	"expression": "x_2*(-1*1/x_1 + 1/x_0)",
+	"name": "Gibbs–Helmholtz equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			273.15,
+			373.15
+		],
+		[
+			273.15,
+			373.15
+		],
+		[
+			0,
+			1000
+		]
+	],
+	"task_id": "eponymous_92.json"
+}

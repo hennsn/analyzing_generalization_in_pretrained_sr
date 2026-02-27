@@ -1,0 +1,22 @@
+{
+	"description": "Feynman lectures: volume II, chapter 27, equation 16",
+	"dtype": "float",
+	"expression": "x_0*x_1*x_2**2",
+	"name": "II.27.16",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_60.json"
+}

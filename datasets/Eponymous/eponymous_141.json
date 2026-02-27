@@ -1,0 +1,14 @@
+{
+	"description": "The saturated vapor pressure of air is approximated by an exponential function of temperature.",
+	"dtype": "float",
+	"expression": "exp(2107/100 - 1*5336/x_0)",
+	"name": "Penman equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			200,
+			350
+		]
+	],
+	"task_id": "eponymous_141.json"
+}

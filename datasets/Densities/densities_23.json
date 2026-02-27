@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.maxwell.html#scipy.stats.maxwell",
+	"dtype": "float",
+	"expression": "sqrt(2/pi)*x_0^2*exp(-x_0^2/2)",
+	"name": "Maxwell density",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.0,
+			2
+		]
+	],
+	"task_id": "densities_23.json"
+}

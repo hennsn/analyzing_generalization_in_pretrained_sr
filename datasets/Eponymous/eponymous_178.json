@@ -1,0 +1,18 @@
+{
+	"description": "The warp factor as a function of the dilaton field and a constant.",
+	"dtype": "float",
+	"expression": "x_0 + x_1",
+	"name": "Strominger's equations",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_178.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "Trigonometric",
+	"dtype": "float",
+	"expression": "2*sin(x_0)*cos(x_1)",
+	"name": "Nguyen-10",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1,
+			1
+		],
+		[
+			-1,
+			1
+		]
+	],
+	"task_id": "nguyen_9.json"
+}

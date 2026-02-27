@@ -1,0 +1,30 @@
+{
+	"description": "Jackson 3.45",
+	"dtype": "float",
+	"expression": "x_0/(4*pi*x_4*sqrt(x_1**2 - 2*x_1*x_2*cos(x_3) + x_2**2))",
+	"name": "bonus_13",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			4.0,
+			6.0
+		],
+		[
+			0.0,
+			6.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_98.json"
+}

@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Michael Korns. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "-6*(log(x_2) - tan(x_3))*exp(-x_1)*tan(x_0) + 12",
+	"name": "Korns-15",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.24818997227908168,
+			1.2481899722790817
+		],
+		[
+			-1.5831774122820366,
+			-0.5831774122820366
+		],
+		[
+			0.5479474173492189,
+			1.547947417349219
+		],
+		[
+			-0.5746221189112442,
+			0.42537788108875585
+		]
+	],
+	"task_id": "korns_14.json"
+}

@@ -1,0 +1,38 @@
+{
+	"description": "The Kapustinskii equation calculates the lattice energy for an ionic crystal.",
+	"dtype": "float",
+	"expression": "x_0*(x_1*Abs(x_2)*Abs(x_3))*(-x_6/(x_4 + x_5) + 1)/(x_4 + x_5)",
+	"name": "Kapustinskii equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_107.json"
+}

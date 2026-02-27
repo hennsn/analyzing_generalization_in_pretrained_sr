@@ -1,0 +1,18 @@
+{
+	"description": "Newton's second law of motion states that the force acting on an object is equal to its mass times its acceleration.",
+	"dtype": "float",
+	"expression": "x_0*x_1",
+	"name": "List of equations",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.1,
+			1000
+		],
+		[
+			0.01,
+			100
+		]
+	],
+	"task_id": "eponymous_120.json"
+}

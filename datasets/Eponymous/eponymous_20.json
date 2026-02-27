@@ -1,0 +1,30 @@
+{
+	"description": "The Borda–Carnot equation for a sudden contraction of a pipe.",
+	"dtype": "float",
+	"expression": "1*x_0*(-1 + 1/x_1)**2*(x_2/x_3)**2*x_4**2/2",
+	"name": "Borda–Carnot equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0,
+			1000
+		],
+		[
+			0,
+			1
+		],
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		],
+		[
+			0,
+			100
+		]
+	],
+	"task_id": "eponymous_20.json"
+}

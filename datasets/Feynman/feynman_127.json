@@ -1,0 +1,18 @@
+{
+	"description": "Problem number 14 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "x_1*sqrt(1 - x_0^2) + x_0*sqrt(1 - x_1^2)",
+	"name": "2.0 mystery number 14",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-0.4976208547990084,
+			-0.3726208547990084
+		],
+		[
+			-0.9629202072778851,
+			-0.8379202072778851
+		]
+	],
+	"task_id": "feynman_127.json"
+}

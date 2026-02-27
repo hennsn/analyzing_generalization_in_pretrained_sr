@@ -1,0 +1,42 @@
+{
+	"description": "Feynman lectures: volume II, chapter 36, equation 38",
+	"dtype": "float",
+	"expression": "x_0*x_1/(x_2*x_3) + x_0*x_4*x_7/(x_2*x_3*x_5*x_6**2)",
+	"name": "II.36.38",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		]
+	],
+	"task_id": "feynman_70.json"
+}

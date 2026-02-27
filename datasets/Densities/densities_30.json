@@ -1,0 +1,14 @@
+{
+	"description": "lambda = 0.1, N = 100, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.boltzmann.html#scipy.stats.boltzmann",
+	"dtype": "int",
+	"expression": "0.09516690253473127*exp(-0.1*x_0)",
+	"name": "Boltzmann density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			50
+		]
+	],
+	"task_id": "densities_30.json"
+}

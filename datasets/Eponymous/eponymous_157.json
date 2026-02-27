@@ -1,0 +1,18 @@
+{
+	"description": "The plate count in chromatography can be estimated using the retention time and peak width at half height.",
+	"dtype": "float",
+	"expression": "8*(x_0/x_1)**2*log(2, E)",
+	"name": "Rodrigues equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "eponymous_157.json"
+}

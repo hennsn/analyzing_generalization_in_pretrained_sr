@@ -1,0 +1,14 @@
+{
+	"description": "Exponential",
+	"dtype": "float",
+	"expression": "x_0**0.5",
+	"name": "Nguyen-8",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.0,
+			4.0
+		]
+	],
+	"task_id": "nguyen_7.json"
+}

@@ -1,0 +1,18 @@
+{
+	"description": "Generalized Euler equations for any simple Lie algebra.",
+	"dtype": "float",
+	"expression": "x_0*x_1",
+	"name": "Euler's equations (rigid body dynamics)",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_76.json"
+}

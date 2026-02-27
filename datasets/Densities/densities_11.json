@@ -1,0 +1,14 @@
+{
+	"description": "c = 2, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.genpareto.html#scipy.stats.genpareto",
+	"dtype": "float",
+	"expression": "(1 + 2*x_0)^(-3/2)",
+	"name": "generalized pareto density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_11.json"
+}

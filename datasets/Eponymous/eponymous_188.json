@@ -1,0 +1,30 @@
+{
+	"description": "The van Deemter equation relates the height equivalent to a theoretical plate (HETP) of a chromatographic column to flow and kinetic parameters causing peak broadening.",
+	"dtype": "float",
+	"expression": "x_0 + x_1/x_2 + x_2*(x_3 + x_4)",
+	"name": "Van Deemter's equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1
+		],
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "eponymous_188.json"
+}

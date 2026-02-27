@@ -1,0 +1,18 @@
+{
+	"description": "The Doppler effect equation for observed frequency when the source approaches the observer at an angle.",
+	"dtype": "float",
+	"expression": "x_0*cos(x_1)",
+	"name": "Doppler equations",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			10,
+			100
+		],
+		[
+			0,
+			180
+		]
+	],
+	"task_id": "eponymous_66.json"
+}

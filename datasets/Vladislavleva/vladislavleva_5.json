@@ -1,0 +1,18 @@
+{
+	"description": "Multivariate, hand-designed function by Vladislavleva et al.",
+	"dtype": "float",
+	"expression": "6*sin(x_0)*cos(x_1)",
+	"name": "Vladislavleva-6",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.1,
+			5.9
+		],
+		[
+			0.1,
+			5.9
+		]
+	],
+	"task_id": "vladislavleva_5.json"
+}

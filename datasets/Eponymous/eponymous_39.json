@@ -1,0 +1,18 @@
+{
+	"description": "The Cesàro equation for Nielsen's spiral.",
+	"dtype": "float",
+	"expression": "exp(x_0/x_1)/x_1",
+	"name": "Cesàro equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-1.9430988573368526,
+			-1.4430988573368526
+		],
+		[
+			-1.086345829714523,
+			-0.586345829714523
+		]
+	],
+	"task_id": "eponymous_39.json"
+}

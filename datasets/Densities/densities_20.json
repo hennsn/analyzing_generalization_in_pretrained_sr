@@ -1,0 +1,14 @@
+{
+	"description": "mu = 1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.invgauss.html#scipy.stats.invgauss",
+	"dtype": "float",
+	"expression": "1/sqrt((2*pi*x_0^3))*exp(-((x_0-1)^2)/(2*x_0))",
+	"name": "Inverse Gaussian density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0.2,
+			2
+		]
+	],
+	"task_id": "densities_20.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.cosine.html#scipy.stats.cosine",
+	"dtype": "float",
+	"expression": "(1 + cos(x_0))/(2*pi)",
+	"name": "cosine density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-3.141592653589793,
+			3.141592653589793
+		]
+	],
+	"task_id": "densities_5.json"
+}

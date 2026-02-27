@@ -1,0 +1,14 @@
+{
+	"description": "a = 2, c = 1, https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.exponweib.html#scipy.stats.exponweib",
+	"dtype": "float",
+	"expression": "2*(1 - exp(-x_0))*exp(-x_0)",
+	"name": "exponential weibull density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			1
+		]
+	],
+	"task_id": "densities_7.json"
+}

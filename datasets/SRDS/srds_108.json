@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "16941495369.3246*x_3**2/(pi*x_4)",
+	"name": "feynman-ii.8.7",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0000436304835603e-05,
+			0.000999610056169331
+		],
+		[
+			-9.9923191814207e-21,
+			9.990842534780322e-21
+		],
+		[
+			1.0009091429839667e+17,
+			9.986087859880198e+18
+		],
+		[
+			-9.99430205261831e-10,
+			9.971334868907888e-10
+		],
+		[
+			1.0001136203918737e-12,
+			9.988498222979203e-11
+		]
+	],
+	"task_id": "srds_108.json"
+}

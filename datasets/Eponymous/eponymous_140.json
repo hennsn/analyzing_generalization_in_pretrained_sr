@@ -1,0 +1,34 @@
+{
+	"description": "The modified Penman equation by Shuttleworth simplifies the calculation of evaporation using SI units.",
+	"dtype": "float",
+	"expression": "(x_0*x_1 + x_2*(643/100)*(67*x_3/125 + 1)*x_4)/((x_5*(x_0 + x_2)))",
+	"name": "Penman equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0,
+			1000
+		],
+		[
+			0,
+			1000
+		],
+		[
+			0,
+			1000
+		],
+		[
+			0,
+			1000
+		],
+		[
+			0,
+			1000
+		],
+		[
+			0,
+			1000
+		]
+	],
+	"task_id": "eponymous_140.json"
+}

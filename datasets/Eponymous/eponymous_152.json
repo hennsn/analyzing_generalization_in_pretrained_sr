@@ -1,0 +1,22 @@
+{
+	"description": "The mass entering the bubble is given by the product of density, area, and velocity.",
+	"dtype": "float",
+	"expression": "x_0*4*pi*x_1**2*x_2",
+	"name": "Rayleigh–Plesset equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			900,
+			1100
+		],
+		[
+			0.01,
+			1
+		],
+		[
+			0.01,
+			1
+		]
+	],
+	"task_id": "eponymous_152.json"
+}

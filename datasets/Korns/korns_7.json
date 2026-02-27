@@ -1,0 +1,22 @@
+{
+	"description": "Multivariate, hand-designed function by Michael Korns.",
+	"dtype": "float",
+	"expression": "29.5775252514473*sqrt(Abs(x_0*x_1*x_2)) + 6.87",
+	"name": "Korns-8",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		],
+		[
+			-50,
+			50
+		]
+	],
+	"task_id": "korns_7.json"
+}

@@ -1,0 +1,30 @@
+{
+	"description": "The Sackur–Tetrode equation expresses the entropy of a monatomic ideal gas in terms of its volume, internal energy, and the number of particles.",
+	"dtype": "float",
+	"expression": "log(x_0*(x_4*(4*pi*x_2)/(x_1*((3*x_3**2))))**(3/2)/x_1, E) + 5/2",
+	"name": "Sackur–Tetrode equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.001,
+			1000.0
+		],
+		[
+			1,
+			1e+23
+		],
+		[
+			1e-30,
+			1e-25
+		],
+		[
+			1e-34,
+			1e-33
+		],
+		[
+			1e-20,
+			1e-15
+		]
+	],
+	"task_id": "eponymous_159.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "Feynman lectures: volume II, chapter 34, equation 29a",
+	"dtype": "float",
+	"expression": "x_0*x_1/(4*pi*x_2)",
+	"name": "II.34.29a",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_65.json"
+}

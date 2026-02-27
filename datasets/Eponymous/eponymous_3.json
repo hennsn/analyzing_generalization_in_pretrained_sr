@@ -1,0 +1,26 @@
+{
+	"description": "The Arrhenius equation describes the exponential dependence of the rate constant of a chemical reaction on the absolute temperature.",
+	"dtype": "float",
+	"expression": "x_0*exp((-x_1)/((x_2*x_3)))",
+	"name": "Arrhenius equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			1e-05,
+			100000.0
+		],
+		[
+			1000.0,
+			100000.0
+		],
+		[
+			1,
+			100
+		],
+		[
+			1,
+			100
+		]
+	],
+	"task_id": "eponymous_3.json"
+}

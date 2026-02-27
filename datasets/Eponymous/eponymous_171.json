@@ -1,0 +1,18 @@
+{
+	"description": "The cross-sectional area of the drum is calculated using the vapor volumetric flow rate and the maximum allowable vapor velocity.",
+	"dtype": "float",
+	"expression": "x_0/x_1",
+	"name": "Souders–Brown equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.1,
+			10
+		],
+		[
+			0.01,
+			1
+		]
+	],
+	"task_id": "eponymous_171.json"
+}

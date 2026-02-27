@@ -1,0 +1,22 @@
+{
+	"description": "Feynman lectures: volume III, chapter 8, equation 54",
+	"dtype": "float",
+	"expression": "sin(2*pi*x_0*x_1/x_2)**2",
+	"name": "III.8.54",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			4.0
+		]
+	],
+	"task_id": "feynman_93.json"
+}

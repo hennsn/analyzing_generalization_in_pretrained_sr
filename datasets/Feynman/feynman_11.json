@@ -1,0 +1,26 @@
+{
+	"description": "Feynman lectures: volume I, chapter 15, equation 3t",
+	"dtype": "float",
+	"expression": "(-x_0*x_2/x_1**2 + x_3)/sqrt(1 - x_2**2/x_1**2)",
+	"name": "I.15.3t",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			3.0,
+			10.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_11.json"
+}

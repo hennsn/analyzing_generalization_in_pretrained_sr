@@ -1,0 +1,22 @@
+{
+	"description": "The Scheil-Gulliver equation describes the composition of the liquid during solidification of an alloy.",
+	"dtype": "float",
+	"expression": "x_0*(1 - x_1)**(x_2 - 1)",
+	"name": "Scheil equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.01,
+			0.99
+		],
+		[
+			0.01,
+			0.99
+		],
+		[
+			0.01,
+			0.99
+		]
+	],
+	"task_id": "eponymous_166.json"
+}

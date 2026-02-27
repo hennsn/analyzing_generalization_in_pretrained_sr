@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.halfnorm.html#scipy.stats.halfnorm",
+	"dtype": "float",
+	"expression": "sqrt(2/pi)*exp(-x_0^2/2)",
+	"name": "Half-Normal density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			2
+		]
+	],
+	"task_id": "densities_19.json"
+}

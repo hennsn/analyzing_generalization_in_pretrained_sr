@@ -1,0 +1,26 @@
+{
+	"description": "Feynman problem of easy difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "x_1/(4*pi*x_2**2)",
+	"name": "feynman-ii.3.24",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0009528348272755e+19,
+			9.996775200863111e+20
+		],
+		[
+			-99.9370346069336,
+			99.9280014038086
+		],
+		[
+			0.010002718307077885,
+			0.9995869994163513
+		],
+		[
+			1.0002153785686067e-24,
+			9.989220687246285e-23
+		]
+	],
+	"task_id": "srds_20.json"
+}

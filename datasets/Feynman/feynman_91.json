@@ -1,0 +1,26 @@
+{
+	"description": "Feynman lectures: volume III, chapter 4, equation 33",
+	"dtype": "float",
+	"expression": "x_0*x_1/(2*pi*(exp(x_0*x_1/(2*pi*x_2*x_3)) - 1))",
+	"name": "III.4.33",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_91.json"
+}

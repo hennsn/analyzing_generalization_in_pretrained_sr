@@ -1,0 +1,38 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "4.63*x_0**2*x_5 + 1.31*x_5 - cos(x_6*(x_6 + (x_1**2*x_4**2*x_5**2*(x_0 + x_2*x_3*x_5)**2 + x_5)/x_0))",
+	"name": "Livermore2-Vars7-14",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "livermore_163.json"
+}

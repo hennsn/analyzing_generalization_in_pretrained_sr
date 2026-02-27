@@ -1,0 +1,30 @@
+{
+	"description": "The Darcy–Weisbach equation relates head loss due to friction in a pipe to the average velocity of fluid flow.",
+	"dtype": "float",
+	"expression": "x_0*(x_1*x_2**2)/((2*x_3*x_4))",
+	"name": "Darcy–Weisbach equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			0.001,
+			1
+		],
+		[
+			1,
+			100
+		],
+		[
+			0.1,
+			10
+		],
+		[
+			1,
+			10
+		],
+		[
+			0.01,
+			1
+		]
+	],
+	"task_id": "eponymous_51.json"
+}

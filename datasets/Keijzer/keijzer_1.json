@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "0.3*x_0*sin(2*pi*x_0)",
+	"name": "Keijzer-2",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-2,
+			2
+		]
+	],
+	"task_id": "keijzer_1.json"
+}

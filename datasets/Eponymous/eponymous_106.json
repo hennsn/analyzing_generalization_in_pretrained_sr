@@ -1,0 +1,18 @@
+{
+	"description": "The non-dimensional Rayleigh line equation simplifies the relationship between pressure and density across a shock wave.",
+	"dtype": "float",
+	"expression": "(x_0 - 1)/(x_1 - 1)",
+	"name": "Hugoniot equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_106.json"
+}

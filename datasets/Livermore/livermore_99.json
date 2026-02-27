@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al.",
+	"dtype": "float",
+	"expression": "0.38 + (-x_0/x_3 + cos(2*x_0*x_2/(x_3*(x_0 + x_1*x_2)))/x_3)/x_1",
+	"name": "Livermore2-Vars4-25",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "livermore_99.json"
+}

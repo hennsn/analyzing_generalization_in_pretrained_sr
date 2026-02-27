@@ -1,0 +1,18 @@
+{
+	"description": "The Landé g-factor in the Pauli equation for an electron in an isotropic constant magnetic field.",
+	"dtype": "float",
+	"expression": "3/2 + (-x_0*(x_0 + 1) + 3/4)/((2*x_1*(x_1 + 1)))",
+	"name": "Pauli equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0.5,
+			10.5
+		]
+	],
+	"task_id": "eponymous_139.json"
+}

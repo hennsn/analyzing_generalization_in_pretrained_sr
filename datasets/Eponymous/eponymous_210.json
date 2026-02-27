@@ -1,0 +1,18 @@
+{
+	"description": "The non-dimensional form of the Young–Laplace equation relates the height and pressure difference to the curvature of the surface.",
+	"dtype": "float",
+	"expression": "1/x_1 + 1/x_0",
+	"name": "Young–Laplace equation",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.01,
+			1.0
+		],
+		[
+			0.01,
+			1.0
+		]
+	],
+	"task_id": "eponymous_210.json"
+}

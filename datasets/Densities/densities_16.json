@@ -1,0 +1,14 @@
+{
+	"description": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.gumbel_r.html#scipy.stats.gumbel_r",
+	"dtype": "float",
+	"expression": "exp(-(x_0 + exp(-x_0)))",
+	"name": "right-skewed Gumbel density",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			-1.5,
+			2
+		]
+	],
+	"task_id": "densities_16.json"
+}

@@ -1,0 +1,22 @@
+{
+	"description": "Feynman problem of hard difficulty.",
+	"dtype": "float",
+	"expression": "x_0*sin(x_1*x_2/2)**2/sin(x_2/2)**2",
+	"name": "feynman-i.30.3",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			10.002604401355589,
+			999.1456008087935
+		],
+		[
+			10.0,
+			999.0
+		],
+		[
+			-6.28318527479884,
+			6.281733546942457
+		]
+	],
+	"task_id": "srds_166.json"
+}

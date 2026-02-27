@@ -1,0 +1,34 @@
+{
+	"description": "Feynman lectures: volume II, chapter 6, equation 15a",
+	"dtype": "float",
+	"expression": "3*x_1*x_5*sqrt(x_3**2 + x_4**2)/(4*pi*x_0*x_2**5)",
+	"name": "II.6.15a",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		],
+		[
+			1.0,
+			3.0
+		]
+	],
+	"task_id": "feynman_76.json"
+}

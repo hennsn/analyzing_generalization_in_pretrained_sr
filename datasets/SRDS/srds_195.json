@@ -1,0 +1,18 @@
+{
+	"description": "Feynman problem of medium difficulty.",
+	"dtype": "float",
+	"expression": "x_0/(12214328760283.5*x_0*(1 - cos(x_1)) + 1)",
+	"name": "feynman-bonus.8",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0003364547821604e-24,
+			9.999582094463657e-23
+		],
+		[
+			-3.1407472738609528,
+			3.141423479925642
+		]
+	],
+	"task_id": "srds_195.json"
+}

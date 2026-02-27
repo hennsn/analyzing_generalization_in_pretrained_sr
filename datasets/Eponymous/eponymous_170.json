@@ -1,0 +1,18 @@
+{
+	"description": "The Souders–Brown equation calculates the maximum allowable vapor velocity in a vapor–liquid separator drum.",
+	"dtype": "float",
+	"expression": "107*sqrt((x_0 - x_1)/x_1)/1000",
+	"name": "Souders–Brown equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			500,
+			1500
+		],
+		[
+			1,
+			50
+		]
+	],
+	"task_id": "eponymous_170.json"
+}

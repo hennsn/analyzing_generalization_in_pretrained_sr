@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "sqrt(x_0)",
+	"name": "Keijzer-8",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0,
+			100
+		]
+	],
+	"task_id": "keijzer_7.json"
+}

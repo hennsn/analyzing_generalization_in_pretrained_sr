@@ -1,0 +1,22 @@
+{
+	"description": "The Fenske equation for multi-component mixtures calculates the minimum number of theoretical plates required for the separation of a multi-component feed stream by a fractionation column at total reflux.",
+	"dtype": "float",
+	"expression": "log(x_0*(1 - x_1)/(x_1*(1 - x_0)), 10)/log(x_2, 10)",
+	"name": "Fenske equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0.01,
+			0.99
+		],
+		[
+			0.01,
+			0.99
+		],
+		[
+			1.01,
+			10.0
+		]
+	],
+	"task_id": "eponymous_83.json"
+}

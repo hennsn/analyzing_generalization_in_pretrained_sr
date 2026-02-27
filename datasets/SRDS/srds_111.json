@@ -1,0 +1,30 @@
+{
+	"description": "Feynman problem of medium difficulty with dummy variables that do not contribute to the expression.",
+	"dtype": "float",
+	"expression": "2*x_1*(1 - cos(x_2*x_4))",
+	"name": "feynman-iii.15.12",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			-999586070528.0,
+			999032487936.0
+		],
+		[
+			1.0012157945190048e-18,
+			9.99898769955407e-17
+		],
+		[
+			0.10012879967689514,
+			9.989104270935059
+		],
+		[
+			1.0007984963842222e+28,
+			9.997707724889218e+29
+		],
+		[
+			1.0000680839006293e-10,
+			9.998743166761415e-09
+		]
+	],
+	"task_id": "srds_111.json"
+}

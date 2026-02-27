@@ -1,0 +1,38 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "x_0 + sqrt(2)*sqrt(x_0/x_4)/2 + cos(-x_1*(-x_2 + 3.67/x_0) + x_3 + x_5*x_6)",
+	"name": "Livermore2-Vars7-18",
+	"scientific_field": "Others",
+	"support": [
+		[
+			-1.4068077911362984,
+			-1.3989952911362984
+		],
+		[
+			1.632696150800376,
+			1.640508650800376
+		],
+		[
+			0.7301146003571359,
+			0.7379271003571359
+		],
+		[
+			-0.12633114994245487,
+			-0.11851864994245487
+		],
+		[
+			-0.009136998221848991,
+			-0.001324498221848991
+		],
+		[
+			-0.7020531683021889,
+			-0.6942406683021889
+		],
+		[
+			1.2911628543605715,
+			1.2989753543605715
+		]
+	],
+	"task_id": "livermore_167.json"
+}

@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Vladislavleva et al.",
+	"dtype": "float",
+	"expression": "x_0**3*(sin(x_0)**2*cos(x_0) - 1)*exp(-x_0)*sin(x_0)*cos(x_0)",
+	"name": "Vladislavleva-2",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0.05,
+			10
+		]
+	],
+	"task_id": "vladislavleva_1.json"
+}

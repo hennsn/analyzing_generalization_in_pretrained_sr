@@ -1,0 +1,18 @@
+{
+	"description": "The Prandtl–Glauert transformation scaling down dimensions and angle of attack by the Prandtl–Glauert factor.",
+	"dtype": "float",
+	"expression": "x_0**2*x_1",
+	"name": "Prandtl–Glauert equation",
+	"scientific_field": "Engineering",
+	"support": [
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		]
+	],
+	"task_id": "eponymous_146.json"
+}

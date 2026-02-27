@@ -1,0 +1,18 @@
+{
+	"description": "The modified Hammett constant σp+ is defined using the rate constants of the SN1 reaction of cumyl chlorides.",
+	"dtype": "float",
+	"expression": "-1*1*log(x_0/x_1, 10)/227/50",
+	"name": "Hammett equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0.01,
+			100
+		],
+		[
+			0.01,
+			100
+		]
+	],
+	"task_id": "eponymous_96.json"
+}

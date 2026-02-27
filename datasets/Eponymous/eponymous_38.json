@@ -1,0 +1,26 @@
+{
+	"description": "The Cesàro equation for log-aesthetic curves in the general case.",
+	"dtype": "float",
+	"expression": "(x_0*x_1 + x_2)**(-1/x_3)",
+	"name": "Cesàro equation",
+	"scientific_field": "Mathematics",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "eponymous_38.json"
+}

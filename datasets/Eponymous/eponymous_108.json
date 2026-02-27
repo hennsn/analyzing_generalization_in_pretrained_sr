@@ -1,0 +1,34 @@
+{
+	"description": "A simpler form of the Kapustinskii equation for estimating lattice energy.",
+	"dtype": "float",
+	"expression": "x_0*(x_1*Abs(x_2)*Abs(x_3))/(x_4 + x_5)",
+	"name": "Kapustinskii equation",
+	"scientific_field": "Chemistry",
+	"support": [
+		[
+			0,
+			10
+		],
+		[
+			0,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			-10,
+			10
+		],
+		[
+			0.01,
+			10
+		],
+		[
+			0.01,
+			10
+		]
+	],
+	"task_id": "eponymous_108.json"
+}

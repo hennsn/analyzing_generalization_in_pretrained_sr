@@ -1,0 +1,14 @@
+{
+	"description": "Univariate, hand-designed function by Maarten Keijzer.",
+	"dtype": "float",
+	"expression": "x_0**3*(sin(x_0)**2*cos(x_0) - 1)*exp(-x_0)*sin(x_0)*cos(x_0)",
+	"name": "Keijzer-4",
+	"scientific_field": "Others",
+	"support": [
+		[
+			0,
+			10
+		]
+	],
+	"task_id": "keijzer_3.json"
+}

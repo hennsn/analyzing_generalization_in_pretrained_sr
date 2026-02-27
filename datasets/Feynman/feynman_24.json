@@ -1,0 +1,26 @@
+{
+	"description": "Feynman lectures: volume I, chapter 32, equation 5",
+	"dtype": "float",
+	"expression": "x_0**2*x_1**2/(6*pi*x_2*x_3**3)",
+	"name": "I.32.5",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			5.0
+		]
+	],
+	"task_id": "feynman_24.json"
+}

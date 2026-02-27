@@ -1,0 +1,18 @@
+{
+	"description": "\\dot{v} from example 6.5.14, D=0.05",
+	"dtype": "float",
+	"expression": "-0.05*x_0**2 - sin(x_1)",
+	"name": "glider_0",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.17,
+			5.6
+		],
+		[
+			-1.32,
+			28.76
+		]
+	],
+	"task_id": "strogatz_4.json"
+}

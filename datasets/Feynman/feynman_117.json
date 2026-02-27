@@ -1,0 +1,22 @@
+{
+	"description": "Problem number 4 in AIFeynman 2.0 problems",
+	"dtype": "float",
+	"expression": "6.87 + 11*sqrt(x_0*x_1*x_2)",
+	"name": "2.0 mystery number 4",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			0.6064796480296133,
+			0.8564796480296133
+		],
+		[
+			-0.3723369671509231,
+			-0.12233696715092313
+		],
+		[
+			-0.5721699106691625,
+			-0.32216991066916245
+		]
+	],
+	"task_id": "feynman_117.json"
+}

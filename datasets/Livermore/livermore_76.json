@@ -1,0 +1,26 @@
+{
+	"description": "Multivariate, hand-designed function by Mundhenk et al. Supports altered afterwards to yield valid values.",
+	"dtype": "float",
+	"expression": "x_0*sqrt(x_1)*x_3/x_2",
+	"name": "Livermore2-Vars4-2",
+	"scientific_field": "Others",
+	"support": [
+		[
+			1.4969780390364584,
+			1.7469780390364584
+		],
+		[
+			1.4074794988498294,
+			1.6574794988498294
+		],
+		[
+			0.06248068539466045,
+			0.31248068539466045
+		],
+		[
+			0.8082646998771441,
+			1.058264699877144
+		]
+	],
+	"task_id": "livermore_76.json"
+}

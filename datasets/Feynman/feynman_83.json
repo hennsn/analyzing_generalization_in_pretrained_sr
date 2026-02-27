@@ -1,0 +1,30 @@
+{
+	"description": "Feynman lectures: volume III, chapter 14, equation 14",
+	"dtype": "float",
+	"expression": "x_0*(exp(x_1*x_2/(x_3*x_4)) - 1)",
+	"name": "III.14.14",
+	"scientific_field": "Physics",
+	"support": [
+		[
+			1.0,
+			5.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		],
+		[
+			1.0,
+			2.0
+		]
+	],
+	"task_id": "feynman_83.json"
+}
